@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.29)  20 MAR 2017 10:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.29)  20 JUN 2017 19:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/Kurban/Jobs/2017/Kevin-Urban-Summary-CV.tex
-(/Users/Kurban/Jobs/2017/Kevin-Urban-Summary-CV.tex
+**/Users/Kurban/Jobs/CV/Kevin-Urban-Summary-CV.tex
+(/Users/Kurban/Jobs/CV/Kevin-Urban-Summary-CV.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 54 languages loaded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
@@ -288,9 +288,23 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 70.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 153.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 154.
 
-Overfull \hbox (2.50378pt too wide) in paragraph at lines 235--239
+/Users/Kurban/Jobs/CV/Kevin-Urban-Summary-CV.tex:154: Misplaced alignment tab c
+haracter &.
+<argument> Structured &
+                        Unstructured Data
+l.154 ...m \textbf{Structured & Unstructured Data}
+                                                   (e.g., sensors, instrumen...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (2.50378pt too wide) in paragraph at lines 236--240
 []\OT1/cmr/m/n/10 Conducted the col-lec-tion, har-mo-niza-tion, and nor-mal-iza
 -tion of 100's of time se-ries data streams from in-stru-ments/sensors
  []
@@ -299,29 +313,29 @@ Overfull \hbox (2.50378pt too wide) in paragraph at lines 235--239
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 499--501
+Underfull \hbox (badness 10000) in paragraph at lines 500--502
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 554.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 555.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 554.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 555.
  (./Kevin-Urban-Summary-CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 554.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 554.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 555.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 555.
 Package rerunfilecheck Info: File `Kevin-Urban-Summary-CV.out' has not changed.
 
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 554.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 555.
  ) 
 Here is how much of TeX's memory you used:
  5526 strings out of 493865
- 82936 string characters out of 6153431
+ 82930 string characters out of 6153431
  176845 words of memory out of 5000000
  8936 multiletter control sequences out of 15000+600000
  5629 words of font info for 21 fonts, out of 8000000 for 9000
  621 hyphenation exceptions out of 8191
- 29i,5n,24p,258b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,24p,256b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
 b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
@@ -330,7 +344,7 @@ usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Kevin-Urban-Summary-CV.pdf (3 pages, 119486 bytes).
+Output written on Kevin-Urban-Summary-CV.pdf (3 pages, 118858 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
