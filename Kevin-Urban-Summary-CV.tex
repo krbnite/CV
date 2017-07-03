@@ -1,7 +1,7 @@
 % vim:tw=72 sw=2 ft=tex
 %         File: text.tex
 % Date Created: 2015 Jul 27
-%  Last Change: 2017 Jun 22
+%  Last Change: 2017 Jul 03
 %     Compiler: pdflatex
 %       Author: Kurban
 
@@ -89,21 +89,21 @@
 %     PROFILE / SUMMARY
 %========================================================
 \vspace{0.5cm}
-\ressection{Profile}
-\noindent Highly-motivated, innovative individual with extensive
-experience in empirical research, data product development, and
-%the deployment of machine learning pipelines to varied, high-dimensional data sets.
-%transparent visualization of varied, high-dimensional data sets.
-effective investigation of varied, high-dimensional data sets.
-%Creative, analytic problem solver equipped with an intuition 
-Creative, analytic problem solver equipped with the intuition and tools necessary 
-for identifying trends and patterns in complex data, and the broad
-mathematical insight to generate novel, cross-domain solutions.
-Self-driven, collaborative personality with the understanding that a
-diverse, open-minded work environment and combined skill sets
-result in efficient delivery of high-value, dependable data products and
-results.
-%Effective written and verbal communicator.  
+%\ressection{Profile}
+%\noindent Highly-motivated, innovative individual with extensive
+%experience in empirical research, data product development, and
+%%the deployment of machine learning pipelines to varied, high-dimensional data sets.
+%%transparent visualization of varied, high-dimensional data sets.
+%effective investigation of varied, high-dimensional data sets.
+%%Creative, analytic problem solver equipped with an intuition 
+%Creative, analytic problem solver equipped with the intuition and tools necessary 
+%for identifying trends and patterns in complex data, and the broad
+%mathematical insight to generate novel, cross-domain solutions.
+%Self-driven, collaborative personality with the understanding that a
+%diverse, open-minded work environment and combined skill sets
+%result in efficient delivery of high-value, dependable data products and
+%results.
+%%Effective written and verbal communicator.  
 
 
 %Strategic and focused, interested in applied research and product development.
@@ -164,32 +164,39 @@ exposure to Fortran, Spark, Hive, Java, C/C++, JavaScript
 \leftandright{WWE, Advanced Analytics Team}{Stamford, CT \textbullet\, October
 2016 -- Present} \\  
 \vspace{-0.8em}
-\textit{Data Scientist, Manager} 
+\textit{Data Scientist} 
 \begin{itemize*}
-  \item Design and deployment of deep neural network models in Keras and TensorFlow 
-    on cloud GPUs for a handful of projects, including those related customer segmentation, churn, 
+  \item Lead on numerous business-driven analytics research and
+    predictive modeling projects for WWE Network -- an
+    over-the-top (OTT) content distribution network  that can be
+    described as ``Netflix for Wrestling'' and currently supports nearly
+    2 million active users, generating 1-3 million new rows of viewership/behavioral 
+    data in Redshift database every day
+  \item Experimentation and development of machine learning pipelines
+    in Python / Scikit-Learn (preprocessing, feature selection, dimensionality reduction) and 
+    deep neural network models in Keras and TensorFlow 
+    on AWS EC2 x2.2xlarge (GPU instance) for a handful of projects related customer segmentation, churn, 
     and lifetime value (multilayer perceptrons, autoencoders, recurrent
     neural networks) 
-  \item Development of wrestler image recognition algorithm (transfer learning,
+  \item  Development of wrestler image recognition algorithm (transfer learning,
     convolutional neural networks)
-  \item Lead on numerous business-driven analytics research and
-    predictive modeling projects for WWE Network, including:
   \item  Spectral analyses of customer churn/winback behaviors 
     to enhance customer segmentation efforts, help advise email campaigns, and
     improve churn/winback forecasting 
-  \item Development of multiple revenue attribution models for WWE Network content
-    driven by viewership behaviour at the customer level (analysis of millions of
-    rows of data in Redshift)
-  \item Harmonization of fan panel / survey response data with customer accounts on the
+  \item Development of ensemble approach to revenue attribution models for WWE Network content
+    driven by viewership behaviour at the customer level (analysis of
+    over a billion rows of data in Redshift)
+  \item  Fusion of fan panel / survey response data with customer accounts on the
     WWE Network to better quantify the relationship between
     subjective responses and objective viewership data
-  \item Sentiment analysis of customer cancellation surveys
+  \item Natural language processing (sentiment analysis) of customer cancellation surveys
     and social media content to uncover resolvable issues and inform on
     how to better serve our customer base
-  \item Development of project-agnostic and project-specific R packages to
-    facilitate or fully automate data capture, cleansing,
-    transformation, analysis, and reporting
-  \item Decision tree analyses to help understand and segment
+  \item  Automation of report generation and analytic work flows
+    through the development of project-agnostic and project-specific R packages 
+    (data extraction, cleansing, transformation, analysis, and
+    reporting)
+  \item  Decision tree analyses to help understand and segment
     customers by WWE content and character preferences
   \item Design of interactive dashboards in Tableau to help interested
     parties explore our data assets
@@ -202,24 +209,36 @@ exposure to Fortran, Spark, Hive, Java, C/C++, JavaScript
 \vspace{-0.8em}
 \textit{Research Scientist} 
 \begin{itemize*}
-  \item Led multiple data-driven research projects resulting in a
-    first-author publication, PhD dissertation, and several papers 
-    currently in development
+  \item Fusion and harmonization of data sets from a ground-based,
+    globally-distributed network of instruments; high-altitude 
+    satellites, such as NOAA's DMSP fleet and NASA's Van Allen
+    Probes; and interplanetary spacecraft (NASA's ACE)
   \item Provided new, empirical insights and interpretation of
     decades-old problem concerning the geomagnetic field's complex
     structure in Earth's polar regions
-  \item Developed prediction scheme to forecast the magnetic weather
-    in the deep polar cap
-  \item Developed remote-sensing technique using ground-based sensors
-    to infer/predict parameters in near-Earth space
+  \item Developed prediction scheme to forecast intensity and
+    spatial-temporal distribution the magnetic weather
+    in Earth's deep polar cap region using spacecraft upstream of Earth in the
+    solar wind (NASA's ACE) 
+  \item Inverted the prediction scheme to leverage it as a remote-sensing technique 
+    such that data from ground-based magnetometers in Antarctica can
+    be used to infer space weather parameters in near-Earth space and,
+    if necessary, could essentially replace in-situ spacecraft for certain measurements
+  %\item Implemented robust, non-parametric methods to characterize empirical distributions using as
+  %  few assumptions as possible
   \item Created innovative visualization and analysis techniques
-  \item Implemented robust, non-parametric 
-    methods to characterize empirical distributions
-  \item Conducted the collection, harmonization, and normalization of
-    100's of time series data streams from instruments/sensors
-    distributed across the Earth and solar system to model and
-    understand the linear/nonlinear drivers of a complex systems
-  \item Developed software packages to enable efficient, streamlined analysis 
+    to better understand and transform our understanding of the 
+    Earth magnetic geography and its dynamic response to varying
+    space weather conditions
+  \item  Supported myriad data analysis efforts and projects as a member
+    of the RBSPICE instrument team for NASA's Van Allen
+    Probes mission, which has been essential in understanding and
+    forecasting hazardous conditions of Earth's radiation belt
+    environment
+  \item Developed software packages in Bash, R, MatLab, and IDL to enable efficient, 
+    streamlined analyses and reporting for a range of ongoing projects 
+  \item Published first-author publication, PhD dissertation, and
+    currently have several papers in development
 % \item Through the combination of data/observationally-driven research and deep
 %   physical understanding of magnetohydrodynamics, explained
 %   decades-old problem that prevented proper understanding of the geomagnetic field's
@@ -250,20 +269,21 @@ exposure to Fortran, Spark, Hive, Java, C/C++, JavaScript
 \vspace{-0.8em}
 \textit{Research Scientist, Mathematical Modeling} 
 \begin{itemize*}
-  \item Extensively modeled, analyzed, and visualized several
-    representations of granular fluid systems in MatLab and R
+  \item Developed dynamical system models for granular fluid systems
+  \item Simulated and visualized the dynamical models in MatLab and R
     %\href{http://www.kevin-urban.com/images/gran_tapping-pics.png}
     %{\textsuperscript{\tiny{[link]}}} 
-  \item Investigated sources of chaos in a 
-    dimensionally-reduced parameter space of a discrete-dynamical system
-    (e.g., via \href{http://kevin-urban.com/video/R__gamma-var_restitution-0.8.gif}{Poincare
-    map simulations in R \textsuperscript{\tiny{[link]}}})
+  \item Investigated sources of chaos and instability in such systems
+    by projecting them into a dimensionally-reduced parameter space 
+    and coding simulations of their Poincare maps in R 
+    %(e.g., via \href{http://kevin-urban.com/video/R__gamma-var_restitution-0.8.gif}{Poincare
+    %map simulations in R \textsuperscript{\tiny{[link]}}})
   \item Led effort in understanding and controlling the propagation of numerical errors, 
     which otherwise prevent proper quantitative analysis and
     visualization of the underlying dynamical system
   \item Co-authored four peer-reviewed papers numerically modeling,
     visualizing, and analyzing granular fluid systems
-  \item Led research project on applications of fractional calculus and
+  \item Led research on potential engineering applications of fractional calculus and
     co-authored peer-reviewed publication 
   \item Explored real-world applications of advanced mathematical disciplines such as
     dynamical systems, topological analysis, manifold theory, abstract
