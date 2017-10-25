@@ -1,0 +1,448 @@
+% vim:tw=72 sw=2 ft=tex
+%         File: text.tex
+% Date Created: 2015 Jul 27
+%  Last Change: 2016 Jul 21
+%     Compiler: pdflatex
+%       Author: Kurban
+
+\documentclass[10pt]{article}
+
+
+%%%%%%%%%%%%%%
+%% Packages %%
+%%%%%%%%%%%%%%
+
+%% For changing the margin size. %%
+\usepackage[top=0.5in,bottom=0.5in,left=0.5in,right=0.5in]{geometry}
+
+%% For colored text. %%
+% -  See
+%    http://en.wikibooks.org/wiki/LaTeX/Colors#The_68_standard_colors_known_to_dvips
+%    for a list of predefined colors.
+% \textcolor{colYouWant}{text}
+\usepackage[usenames,dvipsnames]{color}
+
+%% For providing a link to your email. %%
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+
+%% For making compact lists.
+% -  use itemize* environment for compact itemized lists, etc.
+\usepackage{mdwlist}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%             New              %%
+%%           Commands           %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% For making a new section in your resume. %%
+% -  \noindent prevents LaTeX from indenting.
+% -  \large makes the text slightly larger.
+%    See http://en.wikibooks.org/wiki/LaTeX/Fonts#Sizing_text
+%    for a list of other font-sizing commands.
+% -  \vspace adds a little bit of vertical space.
+% -  \hrule adds a horizontal line.
+\newcommand{\ressection}[1]{\noindent{\large\textbf{#1}}
+\vspace{2pt}\hrule\vspace{4pt}}
+
+%% For job titles and date names. %%
+% -  \hfill fills up horizontal space until
+%    the words to the left and the right are
+%    as far apart as possible.
+\newcommand{\leftandright}[2]{\noindent\textbf{#1}\hfill
+\textbf{#2}}
+
+
+
+%%%%%%%%%%%%%%%%%%%
+%% Miscellaneous %%
+%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{empty} %% removes the page numbers.
+
+
+
+%%%%%%%%%%%%%%%%%
+%% The Resume! %%
+%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+\leftandright{\textbf{\huge{Dr. Kevin Urban}}}
+{\url{http://www.kevin-urban.com}}
+
+\leftandright{kevin.ddu@gmail.com \textbullet\, (973) 464-6833}
+{\url{https://www.linkedin.com/in/drkurban}}
+
+
+%========================================================
+%     PROFILE / SUMMARY
+%========================================================
+\vspace{0.2cm}
+\ressection{Profile}
+\noindent Innovative data scientist and physicist with proven experience in 
+data product development and integrated, cohesive visualization of complex,
+multi-source, high-dimensional data sets. Intuition for trends and
+patterns which yield discerning insights and hypotheses, while
+strategic insight and methodology result in rapid research-to-product
+development. Collaborative personality with the understanding that 
+a progressive, open-minded work environment and
+coupled skill sets result in efficient, high-value, dependable data
+products. Effective written and verbal communicator.
+
+
+%========================================================
+%    DATA / PROGRAMMING LANGUAGES
+%========================================================
+\vspace{0.3cm}
+\ressection{Computing Skills}
+\noindent\textbf{Programming / Tools}: R, MatLab, Python, Interactive
+  Data Language [IDL], UNIX, Bash (Shell Scripting),   
+  JavaScript, SQL, LaTeX, Vim, Fortran, Spark, Hive, MongoDB, Java, C/C++
+  \vspace{0.1in}
+
+\noindent\textbf{Analytics}:
+\vspace{-0.2cm}
+\begin{itemize*}
+  \item \textbf{Structured Data} (e.g., uni/multi-variate time series,
+    geospatial, model/simulation output, genomics data)
+  \item \textbf{Unstructured Data} (e.g., image analysis, text mining / scrubbing
+    web pages)
+  \item \textbf{Sensor/Instrument Data Sets} 
+    (e.g., mining and analysis of vectorial time series data
+    from 100's of globally-distributed geomagnetic sensors)
+  \item \textbf{Data Pre-Processing} (detection and
+    removal/remedy of outliers, clipped or out-of-range values, missing
+    values; data structuring, normalization, and/or transformations)
+  \item \textbf{Probability \& Statistics} (e.g., sample statistics, inference, model
+    identification, hypothesis testing, resampling, bootstrapping, confidence
+    intervals, conditioning, error analysis, statistical modeling)
+  \item \textbf{Supervised Machine Learning} (e.g., regression, classification, clustering,
+    prediction)
+  \item \textbf{Unsupervised Machine Learning} (e.g., PCA, SVD,
+    hierarchical clustering, dimensionality reduction)
+  \item \textbf{Time Series Analysis} (spectral
+    analysis, digital signal processing, ARIMA, GARCH, prediction / forecasting,
+    non-parametric methods)
+  \item \textbf{Anomaly Detection} (e.g., kernel density methods,	
+    event detection, pattern recognition)
+  \item \textbf{Statistical / Numerical Modeling}
+    (model selection, linear/nonlinear models, dynamical systems,
+    differential/difference equations, numerical stability, eigenvalues,
+    Runge-Kutta methods)
+\end{itemize*}
+
+
+
+
+
+
+%========================================================
+%  WORK / RESEARCH   EXPERIENCE
+%========================================================
+\vspace{0.2cm}
+\ressection{Work and Professional Research Experience}
+
+\leftandright{Department of Physics, NJIT}{Newark, NJ \textbullet\, January
+2012 -- present} \\  
+\vspace{-0.8em}
+\textit{Research Scientist, Ph.D. Candidate. Advisors: Andrew Gerrard,
+Louis Lanzerotti, Denis Blackmore} 
+\begin{itemize*}
+  \item 
+    Through the combination of data/observationally-driven research and deep
+    physical understanding of magnetohydrodynamics, explained
+    decades-old problem which prevented proper understanding of the geomagnetic field's
+    complex structure in the polar regions. The research involved
+    stochastic analysis; development of novel visualization and
+    analysis techniques; collection, harmonization, and normalization of
+    100's of data sets distributed across the Earth and solar system
+    to model and understand the linear/nonlinear drivers of complex,
+    physical systems.
+  \item The product development included statistical and physical model
+    selection, new interpretations of results commonly understood as
+    anomalies found in the empirical spatial distribution, hypothesis
+    testing, and development of dynamic correlation metrics which verified 
+    time-varying causal relationships, thus verifying the 
+    contrary hypothesis to previous understanding of the subject matter.
+\end{itemize*}
+
+
+%-------------------------------------------------------------
+\leftandright{Department of Mathematical Sciences, NJIT}{Newark, NJ \textbullet\, 2008 -- 2012}\\  
+\vspace{-0.8em}
+\textit{Research Scientist, Professor Denis Blackmore} 
+\begin{itemize*}
+  \item
+    Investigated sources of chaos in a 
+    dimensionally-reduced parameter space of a discrete-dynamical system via
+    \href{http://kevin-urban.com/video/R__gamma-var_restitution-0.8.gif}{Poincare
+    map simulations in R} 
+  \item
+    Numerically modeled and contrasted several representations of granular fluid systems
+    \href{http://www.kevin-urban.com/images/gran_tapping-pics.png}{in
+    MatLab}. 
+  \item Worked with numerically stiff difference equations requiring a stability
+    analysis to understand how to minimize the propagation of numerical errors, which otherwise
+    prevent proper quantitative analysis and visualization of the underlying dynamical system.
+  \item
+    \href{http://msp.org/jomms/2011/6-1/jomms-v6-n1-p06-s.pdf}{Published
+    papers} on
+    \href{http://www.sciencedirect.com/science/article/pii/S0167278914000189}{granular
+    fluid systems} and 
+    \href{http://www.icmp.lviv.ua/journal/zbirnyk.64/}{fractional
+    dynamics} 
+  \item
+    Gained knowledge in advanced mathematical disciplines such as
+    dynamical systems, topological analysis, manifold theory, abstract
+    algebra, stochastic calculus
+  %\item Gained practical experience using the R programming language
+\end{itemize*}
+
+% \vspace{0.25cm}
+% \leftandright{Department of Physics and Astronomy, Siena
+% College}{Loudonville, NY \textbullet\, August 2011 -- January 2012}\\  
+% \vspace{-0.8em}
+% \textit{Research Scientist, Contractor} 
+% \begin{itemize*}
+%   \item
+%     Continued development of
+%     \href{http://kevin-urban.com/images/IDL__Pretty-PSD.pdf}{time series, spectral, 
+%     and regression data analysis techniques} in effort to delineate open
+%     and closed geomagnetic flux using magnetometers situated in and
+%     around the southern polar cap
+% \end{itemize*}
+
+
+%-------------------------------------------------------------
+\leftandright{NASA/CalTech Jet Propulsion Laboratory}{Pasadena, CA \textbullet\, Summer 2011}\\  
+\vspace{-0.8em}
+\textit{Intern, Trajectory Optimization / Design} 
+\begin{itemize*}
+  \item
+    Participated in the development of a full-fledged spacecraft mission to
+    the Trojan asteroids of Jupiter
+    (from % responding to an Announcement of Opportunity [AO]
+    establishing and prioritizing science goals, to optimizing the science-engineering-financial
+    parameter space, to the written proposal and presenting our mission design to the NASA review
+    board)
+  \item 
+    Gained an appreciation of rapid product development via concurrent engineering
+  \item Gained understanding of the intricate interplay between the
+    various engineering system designs, science goals, timeline
+    requirements, and budget constraints.
+  %\item
+  %  Gained understanding of the interplay between the trajectory design
+  %  and other considerations, such as launch
+  %  windows, budget time lines, a multi-component propulsion system,
+  %  and payload
+  %\item 
+  %  Helped develop the science time line and traceability matrix for the
+  %  baseline (desired) and threshold (minimum requirement) missions
+
+\end{itemize*}
+   
+%-------------------------------------------------------------
+\leftandright{Department of Physics, NJIT}{Newark, NJ \textbullet\, 
+August 2008 - August 2010}\\  
+\vspace{-0.8em}
+\textit{Research Scientist, M.S. Student. Advisors: Andrew Gerrard,
+Louis Lanzerotti} 
+\begin{itemize*}
+  \item
+    Analyzed multi-channel instrument data from a spatially-distributed
+    network of automated observatories in Antarctica.
+  \item Developed data metrics and associated classification scheme for
+    events of interest in the data sets.
+  \item Demonstrated the feasibility of a real-time
+    detection/classification scheme in maintaining surveillance on
+    local, regional, and global-scale geomagnetic events of interest.
+  \item Gained practical experience in various data analysis techniques,
+    such as digital signal processing, time series analysis, spectral analysis,
+    statistical methods, and regression.
+  \item In-depth experience visualizing and analyzing data in R, MatLab,
+    and IDL
+  \item Published Master's thesis
+    %: Synoptic variability of a CIR-driven
+    %open-closed boundary during solar minimum.
+\end{itemize*}
+
+%-------------------------------------------------------------
+\leftandright{NASA Goddard Space Flight Center }{ }
+\leftandright{\textcolor{white}{space} }{Greenbelt, MD \textbullet\, June -- August 2007}\\  
+\vspace{-0.8em}
+\textit{Intern, Observational Cosmology Laboratory} 
+\begin{itemize*}
+  \item Developed software implementing a Stokes parameter analysis to
+    run on simulation data for the proposed Absolute Spectrum
+    Polarimeter [ASP] — an instrument designed to detect B-mode
+    gravitational waves, which would provide evidence for Einstein’s
+    theory of general relativity and cosmological inflationary theory
+  \item Gained practical experience in IDL, MatLab, and shell scripting
+  % \item Studied cosmology as it related to the mission goals of ASP
+\end{itemize*}
+
+
+%-------------------------------------------------------------
+\leftandright{NASA Goddard Space Flight Center}{Greenbelt, MD \textbullet\, June -- August 2006}\\  
+\vspace{-0.8em}
+\textit{Intern,  Heliophysics Division}
+\begin{itemize*}
+  \item Worked extensively in the UNIX programming environment, learning and
+    developing Python, HTML, CSS, JavaScript, and PHP code
+  \item Developed web content  % for the International Heliophysical Year [IHY]
+\end{itemize*}
+
+
+
+%========================================================
+%     PEER-REVIEWED PAPERS
+%========================================================
+\vspace{0.2cm}
+\ressection{Selected Peer-Reviewed Publications}
+\vspace{-0.8em}
+\begin{itemize*}
+
+  \item
+    % Urban, K. D., A. J. Gerrard, L. J. Lanzerotti, and A. T. Weatherwax, 
+    Penetration of solar wind hydromagnetic
+    energy deep into the polar cap: remote detection and forecasting. 
+    Geophysical Research Letters,
+    Submitted, 2016.
+
+  \item
+    % Urban, K. D., A. J. Gerrard, L. J. Lanzerotti, and A. T. Weatherwax, 
+    Rethinking the polar cap: eccentric-dipole structuring of ULF power
+    at the highest corrected geomagnetic latitudes. Journal of Geophysical
+    Research, In Press, 2016.
+
+  %\item \label{itm:gran1}
+  %  %Blackmore, D., A. Rosato, X. Tricoche, K. D. Urban, and L. Zou,
+  %  \href{http://www.sciencedirect.com/science/article/pii/S0167278914000189}{ Analysis, 
+  %  simulation, and visualization of 1D tapping via
+  %  reduced dynamical models}. Physica D: Nonlinear Phenomena, Vol.
+  %  273, 2014.
+
+  \item
+    %Diniega, S., K. Sayanagi, J. Balcerski, B. Carande, R. Diaz-Silva,
+    %A. Fraeman, S. Guzewich, J. Hudson, A. Nahm, S. Potter, M. Route, K.
+    %D. Urban, S. Vasisht, B. Benneke, S. Gil, R. Livi, B. Williams, and C.
+    %Budney, L. Lowes,   
+    \href{http://www.sciencedirect.com/science/article/pii/S0032063312003741}{Mission 
+    to the Trojan Asteroids: lessons learned
+    during a JPL Planetary Science Summer School mission design
+    exercise}, Planetary and Space Science, Vol. 76, 2013.
+
+%  \item 
+%    %Rosato, A., D. Blackmore, X. M. Tricoche, K. D. Urban, and L. Zuo,
+%    \href{http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.4811931}{Dynamical
+%    systems model and discrete element simulations of a tapped granular
+%    column}. Powders and Grains 2013: Proceedings of
+%    the 7th International Conference on Micromechanics of Granular
+%    Media. Vol. 1542. No. 1. AIP Publishing, 2013.
+
+  \item
+    %Urban, K. D., Y. Bhattacharya, A. J. Gerrard, A. Ridley, L. Lanzerotti,
+    %and A. Weatherwax, 
+    \href{http://www.agu.org/pubs/crossref/2011/2011SW000688.shtml}{Quiet-time
+    observations of the open-closed boundary
+    prior to the CIR-induced storm of August 9, 2008}. Space Weather,
+    Vol. 9, S11001, 2011.
+
+%  \item \label{itm:gran2}
+%    %Blackmore, D., A. Rosato, X. Tricoche, K. Urban, and V. Ratnaswamy,
+%    \href{http://msp.berkeley.edu/jomms/2011/6-1/jomms-v6-n1-p06-s.pdf}{Tapping
+%    dynamics for a column of particles and beyond}. Journal of
+%    Mechanics of Materials and Structures, Vol. 6, No. 1-4, 2011.
+
+%  \item
+%    % Urban, Kevin, 
+%    ``Synoptic Variability of a CIR-driven Open-closed
+%    Boundary During Solar Minimum.'' Master's Thesis. New Jersey Institute of
+%    Technology, Department of Physics, 2010.
+
+%  \item \label{itm:gran3}
+%    % Blackmore, D., K. Urban, and A. Rosato,
+%    \href{http://www.icmp.lviv.ua/journal/zbirnyk.64/}{Integrability analysis of regular and
+%    fractional Blackmore-Samulyak-Rosato fields}.  Condensed Matter
+%    Physics, Vol. 13, No. 4, 2010. 
+\end{itemize*}
+
+
+
+%========================================================
+%     EDUCATION
+%========================================================
+\vspace{0.2cm}
+\ressection{Education}
+
+\leftandright{New Jersey Institute of Technology / Rutgers University,
+\textmd{Ph.D. Physics}}{Newark, NJ
+\textbullet\, May 2016} \\  
+\leftandright{}{Dissertation: \textmd{The Hydromagnetic Structure of the
+Polar Cap and Its Interaction with the Solar Wind}}\\  
+
+\leftandright{New Jersey Institute of Technology / Rutgers University,
+\textmd{M.S. Physics}}{Newark, NJ
+\textbullet\, August 2010} \\  
+\leftandright{}{Thesis: \textmd{Synoptic Variability of a CIR-Driven Open-Closed
+Boundary During Solar Minimum}}\\  
+
+\leftandright{New Jersey Institute of Technology / Rutgers University,
+\textmd{B.S. Physics}}{Newark, NJ
+\textbullet\, May 2008} \\  
+
+
+%========================================================
+%    COMMUNICATION
+%========================================================
+%\ressection{Miscellaneous}
+%\noindent Effective written and verbal communicator, e.g.,
+%experiences include:
+%\vspace{-0.3cm}
+%\begin{itemize*}
+%  \item published author
+%  \item news writer 
+%  \item physics and mathematics tutor
+%  \item guitar instructor 
+%  \item performing musician
+%  \item scored in the 99th percentile in the verbal section of the
+%    Graduate Record Examination (GRE)
+%\end{itemize*}
+
+%========================================================
+%    COURSEWORK
+%========================================================
+%\ressection{Relevant Coursework}
+%\noindent\textbf{Graduate}:
+%    Real Analysis, Complex Analysis, Topology, Differentiable Manifolds,
+%    Applications of Abstract Algebra, Stochastic Calculus, 
+%    Radio Astronomy, Stellar Magnetism, Physics of the Magnetosphere/Ionosphere System,
+%    Atmospheric Physics, Electrodynamics, Statistical Mechanics,
+%    Classical Mechanics, Quantum Mechanics, Quantum Electrodynamics
+%\par\vspace{0.5em}
+%\noindent\textbf{Undergraduate}:
+%    Data Reduction, Probability/Statistics, Linear Algebra, Computer
+%    Science I-II (Java/C++), Abstract Algebra, Vector Calculus,
+%    Differential Equations, Advanced Calculus, Electromagnetism,
+%    Thermodynamics, Classical Mechanics, Observational Astronomy,
+%    Astronomy, Astrophysics I-II,  Quantum Mechanics, Special
+%    Relativity, General Relativity
+%\par\vspace{0.5em}
+%\noindent\textbf{Extracurricular}
+%    Computing for Data Analysis (R) [Coursera, R. Peng], Data Analysis
+%    (R) [Coursera, J. Leek], Bioinformatics Algorithms [Coursera, P.
+%    Pevzner], Machine Learning [Coursera, A. Ng], Operator Algebras and
+%    Conformal Field Theory [Summer School, U. Oregon], Concurrent
+%    Engineering [Planetary Science Summer School, Jet Propulsion
+%    Laboratory]
+
+
+
+\end{document}
+
+
+
+
