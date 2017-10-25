@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.29)  25 OCT 2017 08:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.29)  25 OCT 2017 08:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -292,20 +292,20 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 493--495
+Underfull \hbox (badness 10000) in paragraph at lines 497--499
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 553.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 557.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 553.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 557.
  (./Kevin-Urban-Summary-CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 553.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 553.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 557.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 557.
 Package rerunfilecheck Info: File `Kevin-Urban-Summary-CV.out' has not changed.
 
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 553.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 557.
  ) 
 Here is how much of TeX's memory you used:
  5527 strings out of 493865
@@ -314,7 +314,7 @@ Here is how much of TeX's memory you used:
  8937 multiletter control sequences out of 15000+600000
  5629 words of font info for 21 fonts, out of 8000000 for 9000
  621 hyphenation exceptions out of 8191
- 29i,5n,24p,272b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,5n,24p,272b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
 b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
@@ -323,7 +323,7 @@ usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Kevin-Urban-Summary-CV.pdf (3 pages, 120973 bytes).
+Output written on Kevin-Urban-Summary-CV.pdf (3 pages, 121458 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
