@@ -1,7 +1,7 @@
 % vim:tw=72 sw=2 ft=tex
 %         File: text.tex
 % Date Created: 2015 Jul 27
-%  Last Change: 2017 Oct 25
+%  Last Change: 2018 Feb 01
 %     Compiler: pdflatex
 %       Author: Kurban
 
@@ -51,16 +51,6 @@
 \begin{document}
 
 
-% (1) Mandeep & Rich @ Antuit felt "Dr. Kevin Urban" was best w/ Education
-% at bottom
-% (2) Recruiter from Audible was horrified by "Dr" and weirded out that
-% Education was at the bottom. He also did not like the profile and
-% thought a 2-sentence objective statement would be better.
-% (3) a Phd-2-Industry blog I was reading advocated for putting
-% Education History and AFTER Work History, which should be sorted by
-% relevance, NOT date
-%
-
 %\leftandright{\textbf{\huge{Dr. Kevin Urban}}}
 \leftandright{\textbf{\huge{Kevin Urban, PhD}}}
 %\leftandright{\textbf{\huge{Kevin Urban}}}
@@ -75,332 +65,43 @@
 
 
 %========================================================
-%     OBJECTIVE
-%========================================================
-% \vspace{0.4cm}
-% \begin{center}
-%   \textbf{Objective}: To obtain a data scientist role at J.P. Morgan
-% \end{center}
-% \vspace{-0.5cm}
-
-
-
-%========================================================
-%     PROFILE / SUMMARY
-%========================================================
-\vspace{0.5cm}
-%\ressection{Profile}
-%\noindent Highly-motivated, innovative individual with extensive
-%experience in empirical research, data product development, and
-%%the deployment of machine learning pipelines to varied, high-dimensional data sets.
-%%transparent visualization of varied, high-dimensional data sets.
-%effective investigation of varied, high-dimensional data sets.
-%%Creative, analytic problem solver equipped with an intuition 
-%Creative, analytic problem solver equipped with the intuition and tools necessary 
-%for identifying trends and patterns in complex data, and the broad
-%mathematical insight to generate novel, cross-domain solutions.
-%Self-driven, collaborative personality with the understanding that a
-%diverse, open-minded work environment and combined skill sets
-%result in efficient delivery of high-value, dependable data products and
-%results.
-%%Effective written and verbal communicator.  
-
-
-%Strategic and focused, interested in applied research and product development.
-
-
-%========================================================
 %    DATA / PROGRAMMING LANGUAGES
 %========================================================
 % -- this is kind of a "Summary of Qualifications"
 \vspace{0.5cm}
 \ressection{Computing Skills}
-\noindent\textbf{Programming / Tools}: Proficient in Python  
-(Jupyter, TensorFlow-GPU, Keras, SciKit-Learn, Pandas, NumPy, Requests,
-BeautifulSoup, Selenium), R (dplyr, tidyr,
-ggplot2, magrittr, RStudio, R Markdown, etc), SQL (PostgreSQL, SQLite),
-Amazon Web Services (Redshift, S3, EC2, EBS), Tableau, MatLab, Octave, IDL, 
-UNIX (OS X) and Linux (Ubuntu) Shell Scripting (e.g., bash, awk, sed,
-grep, wget, ssh, sftp, etc), Git, Github, 
-LaTeX, Vim, HTML, CSS, javascript, MarkDown, Excel, Google Sheets; 
-Limited Experience and/or Classroom exposure to Spark, Hive, Java, C/C++, Fortran
-  \vspace{0.1in}
+%\noindent\textbf{Programming / Tools}: 
+\noindent\textbf{Languages \& Tools}: 
+\input{programming-tools.tex}
+\vspace{0.1in}
 
-\noindent\textbf{Analytics}:
-\vspace{-0.2cm}
-\begin{itemize*}
-  \item \textbf{Structured \& Unstructured Data} (e.g., sensors,
-    scientific instrumentation, spacecraft, 
-    images, text, time series, geospatial, simulation, 
-    genomics, marketing, viewership, commerce, webpages, social media)
-  \item \textbf{Data Pre-Processing} (e.g., table joins, up/down sampling, outlier detection, 
-    imputation, aggregation, feature selection / engineering /
-    extraction, regex and rules-based scrubbing / transformations)
-  \item \textbf{Probability \& Statistics} (e.g., inference,
-    hypothesis testing, resampling, conditioning, error analysis)
-  \item \textbf{Machine Learning} (e.g., neural networks,
-    deep learning, CNNs, RNNs, reinforcement learning, statistical
-    models, regression, classification, clustering, prediction,
-    PCA, LDA, decision trees, random forests, sentiment analysis,
-    natural language processing)
-  \item \textbf{Time Series Analysis} (e.g., parametric, nonparametric, spectral
-    analysis, digital signal processing, digital filtering, forecasting,
-    wavelets)
-  \item \textbf{Numerical Modeling}
-    (e.g., difference equations, numerical derivatives, numerical
-    integration, linear/nonlinear models, dynamical systems, numerical stability, 
-    eigenvalue estimation)
-\end{itemize*}
-
-
-
+%\noindent\textbf{Analytics}:
+\noindent\textbf{Data Science \& Analytics}:
+\input{analytics-compact.tex}
+\vspace{0.1in}
 
 
 
 %========================================================
 %  WORK / RESEARCH   EXPERIENCE
 %========================================================
-\vspace{0.2cm}
 \ressection{Work and Professional Research Experience}
 
-\leftandright{WWE, Advanced Analytics Team}{Stamford, CT \textbullet\, October
-2016 -- Present} \\  
-\vspace{-0.8em}
-\textit{Data Scientist} 
-\begin{itemize*}
-  \item Lead on numerous business-driven analytics research and
-    predictive modeling projects for WWE Network -- an
-    over-the-top (OTT) content distribution network  that can be
-    described as ``Netflix for Wrestling'' and currently supports nearly
-    2 million active users, generating 1-3 million new rows of viewership/behavioral 
-    data in Redshift database every day
-  \item Experimentation and development of machine learning pipelines
-    in Python / Scikit-Learn (preprocessing, feature selection, dimensionality reduction) and 
-    deep neural network models in Keras and TensorFlow 
-    on AWS EC2 x2.2xlarge (GPU instance) for a handful of projects related customer segmentation, churn, 
-    and lifetime value (multilayer perceptrons, autoencoders, recurrent
-    neural networks) 
-  \item Automation of headless web browsers (using Selenium,
-    BeautifulSoup, and Cron) and web APIs (YouTube Reporting, Analytics,
-    Data; Google Client; FaceBook Graph) to aid in the collection and
-    ingestion of important data sets at desirable cadences
-  \item  Development of wrestler image recognition algorithm (transfer learning,
-    convolutional neural networks)
-  \item  Spectral analyses of customer churn/winback behaviors 
-    to enhance customer segmentation efforts, help advise email campaigns, and
-    improve churn/winback forecasting 
-  \item Development of ensemble approach to revenue attribution models for WWE Network content
-    driven by viewership behaviour at the customer level (analysis of
-    over a billion rows of data in Redshift)
-  \item  Fusion of fan panel / survey response data with customer accounts on the
-    WWE Network to better quantify the relationship between
-    subjective responses and objective viewership data
-  \item Natural language processing (sentiment analysis) of customer cancellation surveys
-    and social media content to uncover resolvable issues and inform on
-    how to better serve our customer base
-  \item  Automation of report generation and analytic work flows
-    through the development of project-agnostic and project-specific R packages 
-    and python scripts
-    (data extraction, cleansing, transformation, analysis, reporting,
-    website scraping)
-  \item  Decision tree analyses to help understand and segment
-    customers by WWE content and character preferences
-  \item Design of interactive dashboards in Tableau to help interested
-    parties explore our data assets
-\end{itemize*}
+\input{work-wwe.tex}
 
+\input{work-cstr-2012-2016.tex}
 
+\input{work-blackmore-2008-2012.tex}
 
-\leftandright{NJIT Center for Solar-Terrestrial Research}{Newark, NJ \textbullet\, January
-2012 -- May 2016} \\  
-\vspace{-0.8em}
-\textit{Research Scientist} 
-\begin{itemize*}
-  \item Fusion and harmonization of data sets from a ground-based,
-    globally-distributed network of instruments; high-altitude 
-    satellites, such as NOAA's DMSP fleet and NASA's Van Allen
-    Probes; and interplanetary spacecraft (NASA's ACE)
-  \item Provided new, empirical insights and interpretation of
-    decades-old problem concerning the geomagnetic field's complex
-    structure in Earth's polar regions
-  \item Developed prediction scheme to forecast intensity and
-    spatial-temporal distribution the magnetic weather
-    in Earth's deep polar cap region using spacecraft upstream of Earth in the
-    solar wind (NASA's ACE) 
-  \item Inverted the prediction scheme to leverage it as a remote-sensing technique 
-    such that data from ground-based magnetometers in Antarctica can
-    be used to infer space weather parameters in near-Earth space and,
-    if necessary, could essentially replace in-situ spacecraft for certain measurements
-  %\item Implemented robust, non-parametric methods to characterize empirical distributions using as
-  %  few assumptions as possible
-  \item Created innovative visualization and analysis techniques
-    to better understand and transform our understanding of the 
-    Earth magnetic geography and its dynamic response to varying
-    space weather conditions
-  \item  Supported myriad data analysis efforts and projects as a member
-    of the RBSPICE instrument team for NASA's Van Allen
-    Probes mission, which has been essential in understanding and
-    forecasting hazardous conditions of Earth's radiation belt
-    environment
-  \item Developed software packages in Bash, R, MatLab, and IDL to enable efficient, 
-    streamlined analyses and reporting for a range of ongoing projects 
-  \item Published first-author publication, PhD dissertation, and
-    currently have several papers in development
-% \item Through the combination of data/observationally-driven research and deep
-%   physical understanding of magnetohydrodynamics, explained
-%   decades-old problem that prevented proper understanding of the geomagnetic field's
-%   complex structure in Earth's polar regions 
-%   \textsuperscript{\href{http://www.slideshare.net/inverseuniverse/polarcappower}
-%   {[link]}}. The research involved stochastic analysis; development of
-%   novel visualization and analysis techniques
-%   \textsuperscript{\href{http://www.slideshare.net/inverseuniverse/spectralproducts-64254698}{[link]}};
-%   %IDL__8day_multi-mag-spectra.pdf}{example}};
-%   collection, harmonization, and normalization of 100's of data sets 
-%   \textsuperscript{\href{http://kevin-urban.com/video/R__20130302_trifecta.mp4}{[link]}}
-%   distributed across the Earth and solar system to model and
-%   understand the linear/nonlinear drivers of complex, physical
-%   systems.
-% \item The product development included statistical and physical model
-%   selection, new interpretations of results commonly understood as
-%   anomalies found in the empirical spatial distribution, hypothesis
-%   testing, and development of dynamic correlation metrics which verified 
-%   time-varying causal relationships 
-%   \href{http://kevin-urban.com/images/dynamic-correlograms.pdf}
-%   {\textsuperscript{[link]}}, thus verifying the 
-%   contrary hypothesis to previous understanding of the subject matter.
-\end{itemize*}
+\input{work-jpl-2011.tex}   
 
+\input{work-consultant-2010-2012.tex}
 
-%-------------------------------------------------------------
-\leftandright{NJIT Department of Mathematical Sciences}{Newark, NJ \textbullet\, 2008 -- 2012}\\  
-\vspace{-0.8em}
-\textit{Research Scientist, Mathematical Modeling} 
-\begin{itemize*}
-  \item Developed dynamical system models for granular fluid systems
-  \item Simulated and visualized the dynamical models in MatLab and R
-    %\href{http://www.kevin-urban.com/images/gran_tapping-pics.png}
-    %{\textsuperscript{\tiny{[link]}}} 
-  \item Investigated sources of chaos and instability in such systems
-    by projecting them into a dimensionally-reduced parameter space 
-    and coding simulations of their Poincare maps in R 
-    %(e.g., via \href{http://kevin-urban.com/video/R__gamma-var_restitution-0.8.gif}{Poincare
-    %map simulations in R \textsuperscript{\tiny{[link]}}})
-  \item Led effort in understanding and controlling the propagation of numerical errors, 
-    which otherwise prevent proper quantitative analysis and
-    visualization of the underlying dynamical system
-  \item Co-authored four peer-reviewed papers numerically modeling,
-    visualizing, and analyzing granular fluid systems
-  \item Led research on potential engineering applications of fractional calculus and
-    co-authored peer-reviewed publication 
-  \item Explored real-world applications of advanced mathematical disciplines such as
-    dynamical systems, topological analysis, manifold theory, abstract
-    algebra, stochastic calculus
-    % \href{http://msp.org/jomms/2011/6-1/jomms-v6-n1-p06-s.pdf}
-    % {\textsuperscript{\tiny{[link1],}}}  
-    % \href{http://www.sciencedirect.com/science/article/pii/S0167278914000189}
-    % {\textsuperscript{\tiny{[link2],}}} 
-    % \href{http://www.icmp.lviv.ua/journal/zbirnyk.64/}
-    % {\textsuperscript{\tiny{[link3]}}} 
-\end{itemize*}
+\input{work-njit-physics-2008-2010.tex}
 
+\input{work-nasa-cosmology-2007.tex}
 
-
-%-------------------------------------------------------------
-\leftandright{NASA/CalTech Jet Propulsion Laboratory}{Pasadena, CA \textbullet\, Summer 2011}\\  
-\vspace{-0.8em}
-\textit{Intern, Trajectory Optimization / Design} 
-\begin{itemize*}
-  \item
-    Collaborated with a team of engineers and scientists to develop a full-fledged spacecraft mission to
-    the Trojan asteroids of Jupiter
-    (from % responding to an Announcement of Opportunity [AO]
-    establishing and prioritizing science goals, to optimizing the science-engineering-financial
-    parameter space, to the written proposal and presenting our mission design to the NASA review
-    board)
-  \item 
-    Gained an appreciation of rapid product development via concurrent
-    engineering, and an understanding of the intricate interplay between the
-    various engineering system designs, science goals, timeline
-    requirements, and budget constraints.
-  \item Published peer-reviewed paper documenting lessons learned
-  %\item
-  %  Gained understanding of the interplay between the trajectory design
-  %  and other considerations, such as launch
-  %  windows, budget time lines, a multi-component propulsion system,
-  %  and payload
-  %\item 
-  %  Helped develop the science time line and traceability matrix for the
-  %  baseline (desired) and threshold (minimum requirement) missions
-\end{itemize*}
-   
-%-------------------------------------------------------------
-\leftandright{Independent Research Consultant}{Clifton, NJ \textbullet\, 
-August 2010 - January 2012} \par
-\vspace{-0.8em}
-\begin{itemize*}
-  \item Procured contracts from NJIT's Physics Department and Siena
-    College's Department of Physics and Astronomy to 
-    continue the development of automated, real-time prediction of geomagnetic parameters
-    using geospatially-distributed network of magnetometers
-  \item Published peer-reviewed paper documenting proof-of-concept and 
-    lessons learned
-    \href{http://onlinelibrary.wiley.com/doi/10.1029/2011SW000688/full}
-    {proof-of-concept \textsuperscript{\tiny{[link]}}}
-    %: Synoptic variability of a CIR-driven
-    %open-closed boundary during solar minimum.
-\end{itemize*}   
-
-
-\leftandright{NJIT Department of Physics}{Newark, NJ \textbullet\, 
-August 2008 - August 2010} \par
-\textit{Research Assistant }
-\vspace{-0.8em}
-\begin{itemize*}
-  \item Led project demonstrating the feasibility of a real-time
-    surveillance, detection, classification, and prediction of 
-    local, regional, and global-scale geomagnetic events of interest
-  \item
-    Analyzed multi-channel instrument data from a spatially-distributed
-    network of automated observatories in Antarctica.
-  \item Developed data metrics and associated classification scheme for
-    events of interest in the data sets.
-  \item In-depth experience visualizing and analyzing data in R, MatLab,
-    and IDL
-  \item In-depth experience in various data analysis techniques,
-    such as digital signal processing, time series analysis, spectral analysis,
-    statistical methods, modeling, and regression.
-  \item Hardware-software interfacing of instrumentation for data
-    collection
-  \item Published Master's thesis
-\end{itemize*}
-
-%-------------------------------------------------------------
-\leftandright{NASA Goddard Space Flight Center }{ }
-\leftandright{\textcolor{white}{space} }{Greenbelt, MD \textbullet\, June -- August 2007}\\  
-\vspace{-0.8em}
-\textit{Intern, Observational Cosmology Laboratory} 
-\begin{itemize*}
-  \item Developed software implementing a Stokes parameter analysis to
-    run on simulation data for the proposed Absolute Spectrum
-    Polarimeter [ASP] --- an instrument designed to detect B-mode
-    gravitational waves, which would provide evidence for Einstein's
-    theory of general relativity and cosmological inflationary theory
-  \item Worked with multiple programming languages, including MatLab,
-    Bash (shell scripting), and IDL 
-  % \item Studied cosmology as it related to the mission goals of ASP
-\end{itemize*}
-
-
-%-------------------------------------------------------------
-\leftandright{NASA Goddard Space Flight Center}{Greenbelt, MD \textbullet\, June -- August 2006}\\  
-\vspace{-0.8em}
-\textit{Intern,  Heliophysics Division}
-\begin{itemize*}
-  \item Worked extensively in the UNIX programming environment, learning and
-    developing Python, HTML, CSS, JavaScript, and PHP code
-  \item Developed web content  % for the International Heliophysical Year [IHY]
-\end{itemize*}
-
+\input{work-nasa-heliophysics-2006.tex}
 
 
 %========================================================
@@ -409,73 +110,7 @@ August 2008 - August 2010} \par
 \vspace{0.2cm}
 \ressection{Selected Peer-Reviewed Publications}
 \vspace{-0.8em}
-\begin{itemize*}
-
-  %\item
-  %  % Urban, K. D., A. J. Gerrard, L. J. Lanzerotti, and A. T. Weatherwax, 
-  %  Penetration of solar wind hydromagnetic
-  %  energy deep into the polar cap: remote detection and forecasting. 
-  %  Geophysical Research Letters,
-  %  Submitted, 2016.
-
-  \item
-    % Urban, K. D., A. J. Gerrard, L. J. Lanzerotti, and A. T. Weatherwax, 
-    Rethinking the polar cap: Eccentric-dipole structuring of ULF power
-    at the highest corrected geomagnetic latitudes, Journal of Geophysical
-    Research, Space Physics, Vol. 121, 2016.
-
-  \item \label{itm:gran1}
-    %Blackmore, D., A. Rosato, X. Tricoche, K. D. Urban, and L. Zou,
-    %\href{http://www.sciencedirect.com/science/article/pii/S0167278914000189}{}
-    Analysis, simulation, and visualization of 1D tapping via
-    reduced dynamical models, Physica D: Nonlinear Phenomena, Vol.
-    273, 2014.
-
-  \item
-    %Diniega, S., K. Sayanagi, J. Balcerski, B. Carande, R. Diaz-Silva,
-    %A. Fraeman, S. Guzewich, J. Hudson, A. Nahm, S. Potter, M. Route, K.
-    %D. Urban, S. Vasisht, B. Benneke, S. Gil, R. Livi, B. Williams, and C.
-    %Budney, L. Lowes,   
-    %\href{http://www.sciencedirect.com/science/article/pii/S0032063312003741}{
-    Mission to the Trojan Asteroids: Lessons learned
-    during a JPL Planetary Science Summer School mission design exercise,
-    %\textsuperscript{\tiny{[link]}}}, 
-    Planetary and Space Science, Vol. 76, 2013.
-
-  \item 
-    %Rosato, A., D. Blackmore, X. M. Tricoche, K. D. Urban, and L. Zuo,
-    %\href{http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.4811931}{
-    Dynamical systems model and discrete element simulations of a tapped granular
-    column,
-    %\textsuperscript{\tiny{[link]}}}
-    Powders and Grains 2013: Proceedings of
-    the 7th International Conference on Micromechanics of Granular
-    Media. Vol. 1542. No. 1. AIP Publishing, 2013.
-
-  \item
-    %Urban, K. D., Y. Bhattacharya, A. J. Gerrard, A. Ridley, L. Lanzerotti,
-    %and A. Weatherwax, 
-    %\href{http://onlinelibrary.wiley.com/doi/10.1029/2011SW000688/full}{
-    Quiet-time observations of the open-closed boundary
-    prior to the CIR-induced storm of August 9, 2008,
-    %\textsuperscript{\tiny{[link]}}} 
-    Space Weather, Vol. 9, S11001, 2011.
-
-  \item \label{itm:gran2}
-    %Blackmore, D., A. Rosato, X. Tricoche, K. Urban, and V. Ratnaswamy,
-    %\href{http://msp.berkeley.edu/jomms/2011/6-1/jomms-v6-n1-p06-s.pdf}{
-    Tapping dynamics for a column of particles and beyond,
-    %\textsuperscript{\tiny{[link]}}}. 
-    Journal of Mechanics of Materials and Structures, Vol. 6, No. 1-4, 2011.
-
-  \item \label{itm:gran3}
-    % Blackmore, D., K. Urban, and A. Rosato,
-    %\href{http://www.icmp.lviv.ua/journal/zbirnyk.64/}{
-    Integrability analysis of regular and fractional Blackmore-Samulyak-Rosato fields,
-    %\textsuperscript{\tiny{[link]}}}.  
-    Condensed Matter Physics, Vol. 13, No. 4, 2010. 
-\end{itemize*}
-
+\input{peer-reviewed-papers.tex}
 
 
 
@@ -484,26 +119,11 @@ August 2008 - August 2010} \par
 %========================================================
 \vspace{0.2cm}
 \ressection{Education}
-
-\leftandright{Ph.D., Applied Physics}{$\quad$}\\  %May 2016} \\  
-\indent New Jersey Institute of Technology \& Rutgers University, Newark, NJ\\  
-\indent Dissertation: The Hydromagnetic Structure of the Polar Cap and Its Interaction with the Solar Wind
-
-\leftandright{M.S., Applied Physics (Minor: Applied Mathematics)}{$\quad$}\\  %{August 2010} \\  
-\indent New Jersey Institute of Technology \& Rutgers University, Newark, NJ\\  
-\indent Thesis: Synoptic Variability of a CIR-Driven Open-Closed Boundary During Solar Minimum
-
-
-\leftandright{B.S., Applied Physics (Minor: Applied Mathematics)}{$\quad$}\\  %}{May 2008} \\  
-\indent New Jersey Institute of Technology \& Rutgers University, Newark, NJ\\  
-
+\input{education-college.tex}
 
 \vspace{0.2cm}
 \ressection{Continuing \& Extracurricular Education}
-\lnr{Self-Driving Car Nanodegree}{Udacity (Currently Enrolled)}
-
-\lnr{Deep Learning Nanodegree Foundation}{Udacity}
-
+\input{education-continuing.tex}
 
 
 
