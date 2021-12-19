@@ -1,7 +1,7 @@
 % vim:tw=72 sw=2 ft=tex
 %         File: text.tex
 % Date Created: 2015 Jul 27
-%  Last Change: 2018 Feb 01
+%  Last Change: 2019 Dec 30
 %     Compiler: pdflatex
 %       Author: Kurban
 
@@ -17,6 +17,8 @@
 %% For making compact lists.
 % -  use itemize* environment for compact itemized lists, etc.
 \usepackage{mdwlist}
+%\usepackage{changepage}   % for the adjustwidth environment
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%               New Commands             %%
@@ -64,37 +66,38 @@
 {\url{https://krbnite.github.io/}}
 
 
-%========================================================
-%    DATA / PROGRAMMING LANGUAGES
-%========================================================
-% -- this is kind of a "Summary of Qualifications"
-\vspace{0.5cm}
-\ressection{Computing Skills}
-%\noindent\textbf{Programming / Tools}: 
-\noindent\textbf{Languages \& Tools}: 
-\input{programming-tools.tex}
-\vspace{0.1in}
 
-%\noindent\textbf{Analytics}:
-\noindent\textbf{Data Science \& Analytics}:
-\input{analytics-compact.tex}
-\vspace{0.1in}
+%========================================================
+%     EDUCATION
+%========================================================
+\vspace{0.2cm}
+\ressection{Education}
+\input{education-college.tex}
 
 
 
 %========================================================
 %  WORK / RESEARCH   EXPERIENCE
 %========================================================
+\vspace{0.3cm}
 \ressection{Work and Professional Research Experience}
 
+\vspace{0.2cm}
+\input{work-easi.tex}
+
+\vspace{0.2cm}
 \input{work-wwe.tex}
 
+\vspace{0.2cm}
 \input{work-cstr-2012-2016.tex}
 
+\vspace{0.2cm}
 \input{work-blackmore-2008-2012.tex}
 
+\vspace{0.2cm}
 \input{work-jpl-2011.tex}   
 
+\vspace{0.2cm}
 \input{work-consultant-2010-2012.tex}
 
 \input{work-njit-physics-2008-2010.tex}
@@ -113,19 +116,29 @@
 \input{peer-reviewed-papers.tex}
 
 
-
 %========================================================
-%     EDUCATION
+%     Continuing Education
 %========================================================
-\vspace{0.2cm}
-\ressection{Education}
-\input{education-college.tex}
-
-\vspace{0.2cm}
+\vspace{0.1cm}
 \ressection{Continuing \& Extracurricular Education}
 \input{education-continuing.tex}
 
 
+%========================================================
+%    DATA / PROGRAMMING LANGUAGES
+%========================================================
+% -- this is kind of a "Summary of Qualifications"
+\vspace{0.5cm}
+\ressection{Computing Skills}
+%\noindent\textbf{Programming / Tools}: 
+\noindent\textbf{Languages \& Tools}: 
+\input{programming-tools.tex}
+\vspace{0.1in}
+
+%\noindent\textbf{Analytics}:
+\noindent\textbf{Data Science \& Analytics}:
+\input{analytics-compact.tex}
+\vspace{0.1in}
 
 
 %========================================================

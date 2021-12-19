@@ -1,0 +1,88 @@
+% vim:tw=72 sw=2 ft=tex
+%         File: text.tex
+% Date Created: 2015 Jul 27
+%  Last Change: 2021 Aug 18
+%     Compiler: pdflatex
+%       Author: Kurban
+
+\documentclass[10pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%              Packages                  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[top=0.5in,bottom=0.5in,left=1in,right=1.5in]{geometry}
+\usepackage[usenames,dvipsnames]{color}
+%\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{hyperref}
+%% For making compact lists.
+% -  use itemize* environment for compact itemized lists, etc.
+\usepackage{mdwlist}
+%\usepackage{changepage}   % for the adjustwidth environment
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%               New Commands             %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% For making a new section in your resume. %%
+% -  \noindent prevents LaTeX from indenting.
+% -  \large makes the text slightly larger.
+%    See http://en.wikibooks.org/wiki/LaTeX/Fonts#Sizing_text
+%    for a list of other font-sizing commands.
+% -  \vspace adds a little bit of vertical space.
+% -  \hrule adds a horizontal line.
+\newcommand{\ressection}[1]{\noindent{\large\textbf{#1}}
+\vspace{2pt}\hrule\vspace{4pt}}
+%% For job titles and date names. %%
+% -  \hfill fills up horizontal space until
+%    the words to the left and the right are
+%    as far apart as possible.
+\newcommand{\leftandright}[2]{\noindent\textbf{#1}\hfill
+\textbf{#2}}
+\newcommand{\lnr}[2]{\noindent\textbf{#1}\hfill{#2}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%           Miscellaneous                 %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{empty} %% removes the page numbers.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%             The Resume!                 %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+
+%\leftandright{\textbf{\huge{Dr. Kevin Urban}}}
+\leftandright{\textbf{\huge{Kevin Urban, PhD}}}
+%\leftandright{\textbf{\huge{Kevin Urban}}}
+{\url{https://www.linkedin.com/in/drkrbn}}
+
+\leftandright{kevin.ddu@gmail.com \textbullet\, (973) 464-6833}
+%\leftandright{$\quad$}  % blank for personal website
+{\url{https://github.com/krbnite}} 
+
+\leftandright{}
+{\url{https://krbnite.github.io/}}
+
+
+
+
+%========================================================
+%  WORK / RESEARCH   EXPERIENCE
+%========================================================
+\vspace{0.3cm}
+\ressection{Addendum: Work and Professional Research Experience}
+
+\vspace{0.2cm}
+\input{work-easi-cvb-2018-2021.tex}
+
+
+
+
+
+\end{document}
+
+
+
+
