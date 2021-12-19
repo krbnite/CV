@@ -3,10 +3,10 @@
 *.swo
 
 # LaTeX
+*.aux
 *.bbl
 *.blg
 *.dvi
 *.log
 *.out
-*.aux
 
