@@ -1,7 +1,7 @@
 % vim:tw=72 sw=2 ft=tex
 %         File: text.tex
 % Date Created: 2015 Jul 27
-%  Last Change: 2021 Dec 20
+%  Last Change: 2021 Dec 21
 %     Compiler: pdflatex
 %       Author: Kurban
 
@@ -67,14 +67,6 @@
 
 
 
-%========================================================
-%     EDUCATION
-%========================================================
-\vspace{0.2cm}
-\ressection{Education}
-\input{education-college.tex}
-
-
 
 %========================================================
 %  WORK / RESEARCH   EXPERIENCE
@@ -89,8 +81,6 @@
 \input{snippets/work/2019-2021_easi-cvb_associate-director.tex}
 \input{snippets/work/2018-2019_easi-cvb_data-scientist.tex}
 
-
-
 \vspace{0.2cm}
 \input{snippets/work/2016-2018_wwe_data-scientist.tex}
 
@@ -99,7 +89,6 @@
 
 \vspace{0.2cm}
 \input{snippets/work/2011-summer_jpl_intern.tex}
-\input{work-jpl-2011.tex}   
 
 \vspace{0.2cm}
 \input{snippets/work/2010-2012_njit-sienna_research-consultant.tex}
@@ -111,7 +100,7 @@
 \input{snippets/work/2008-2010_cstr-njit-physics_graduate-research-assistant.tex}
 
 \vspace{0.2cm}
-\input{snippets/work/2008-2008-njit-physics_undergraduate-research-assistant.tex}
+\input{snippets/work/2008-2008_cstr-njit-physics_undergraduate-research-assistant.tex}
 
 \vspace{0.2cm}
 \input{snippets/work/2007-summer_nasa-gsfc-cosmology_intern.tex}
@@ -123,82 +112,53 @@
 %========================================================
 %     PEER-REVIEWED PAPERS
 %========================================================
-\vspace{0.2cm}
+\vspace{0.3cm}
 \ressection{Selected Peer-Reviewed Publications}
 \vspace{-0.8em}
-\input{peer-reviewed-papers.tex}
+\input{snippets/publications/peer-reviewed-papers__NO-LINKS.tex}
 
 
 %========================================================
-%     Continuing Education
+%     Continuing Education / Professional Development
 %========================================================
-\vspace{0.1cm}
-\ressection{Continuing \& Extracurricular Education}
-\input{education-continuing.tex}
+\vspace{0.2cm}
+\ressection{Professional Development / Continuing Education}
+%\noindent\textbf{Continuing Education}:
+\input{snippets/education/continuing-prof-dev}
+
+
+%========================================================
+%   EDUCATION - DEGREES
+%========================================================
+\vspace{0.2cm}
+\ressection{Education}
+\input{snippets/education/college-degrees.tex}
+
+%========================================================
+%   EDUCATION - COURSE WORK
+%========================================================
+\vspace{0.3cm}
+\ressection{Course Work}
+\begin{itemize*}
+  \item\textbf{Graduate}: \input{snippets/education/coursework-graduate.tex}\\
+  \item\textbf{Undergraduate}: \input{snippets/education/coursework-undergraduate.tex}\\
+  \item\textbf{Extracurricular}: \input{snippets/education/coursework-extracurricular.tex}\\
+\end{itemize*}
 
 
 %========================================================
 %    DATA / PROGRAMMING LANGUAGES
 %========================================================
 % -- this is kind of a "Summary of Qualifications"
-\vspace{0.5cm}
-\ressection{Computing Skills}
-%\noindent\textbf{Programming / Tools}: 
-\noindent\textbf{Languages \& Tools}: 
-\input{programming-tools.tex}
-\vspace{0.1in}
-
-%\noindent\textbf{Analytics}:
-\noindent\textbf{Data Science \& Analytics}:
-\input{analytics-compact.tex}
-\vspace{0.1in}
-
-
-%========================================================
-%    COMMUNICATION
-%========================================================
-%\ressection{Miscellaneous}
-%\noindent Effective written and verbal communicator, e.g.,
-%experiences include:
-%\vspace{-0.3cm}
-%\begin{itemize*}
-%  \item published author
-%  \item news writer 
-%  \item physics and mathematics tutor
-%  \item guitar instructor 
-%  \item performing musician
-%  \item scored in the 99th percentile in the verbal section of the
-%    Graduate Record Examination (GRE)
-%\end{itemize*}
-
-%========================================================
-%    COURSEWORK
-%========================================================
-%\ressection{Relevant Coursework}
-%\noindent\textbf{Graduate}:
-%    Real Analysis, Complex Analysis, Topology, Differentiable Manifolds,
-%    Applications of Abstract Algebra, Stochastic Calculus, 
-%    Radio Astronomy, Stellar Magnetism, Physics of the Magnetosphere/Ionosphere System,
-%    Atmospheric Physics, Electrodynamics, Statistical Mechanics,
-%    Classical Mechanics, Quantum Mechanics, Quantum Electrodynamics
-%\par\vspace{0.5em}
-%\noindent\textbf{Undergraduate}:
-%    Data Reduction, Probability/Statistics, Linear Algebra, Computer
-%    Science I-II (Java/C++), Abstract Algebra, Vector Calculus,
-%    Differential Equations, Advanced Calculus, Electromagnetism,
-%    Thermodynamics, Classical Mechanics, Observational Astronomy,
-%    Astronomy, Astrophysics I-II,  Quantum Mechanics, Special
-%    Relativity, General Relativity
-%\par\vspace{0.5em}
-%\noindent\textbf{Extracurricular}
-%    Computing for Data Analysis (R) [Coursera, R. Peng], Data Analysis
-%    (R) [Coursera, J. Leek], Bioinformatics Algorithms [Coursera, P.
-%    Pevzner], Machine Learning [Coursera, A. Ng], Operator Algebras and
-%    Conformal Field Theory [Summer School, U. Oregon], Concurrent
-%    Engineering [Planetary Science Summer School, Jet Propulsion
-%    Laboratory]
-
-
+%\vspace{0.5cm}
+%\ressection{Computing Skills}
+%\noindent\textbf{Languages \& Tools}: 
+%\input{snippets/skills/programming_COMPACT.tex}
+%\vspace{0.1in}
+%
+%\noindent\textbf{Data Science \& Analytics}:
+%\input{snippets/skills/analytics_COMPACT.tex}
+%\vspace{0.1in}
 
 \end{document}
 
