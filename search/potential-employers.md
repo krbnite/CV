@@ -2,6 +2,16 @@ Just trying to keep a list just in case...
 
 
 
+# C
+
+## Covera Health
+
+```yaml
+Location: 330 Hudson St, New York, NY 10013
+Website: https://www.coverahealth.com
+Description: 
+  LinkedIn: ...
+```
 
 
 # P
