@@ -219,6 +219,120 @@ contact your recruiter.\
 Take a peek at how we care for our employees\' holistic well-being with
 our benefits here .
 
+
+## Duolingo: Senior Data Scientist, Economics
+\$144.5K/yr - \$294K/yr, Hybrid (onsite Tues-Thurs)
+
+**Potentially less good fit than AI, but worth checking out**
+
+Our mission at Duolingo is to develop the best education in the world
+and make it universally available. But we've got more left to do --- and
+that's where you come in!\
+\
+Duolingo is the world\'s most popular learning app. Beyond our core
+learning product, we also offer English proficiency testing with the
+Duolingo English Test, and are bringing new subjects into the Duolingo
+app, where people can develop their Math and Music skills.\
+\
+We're looking for an outstanding technical candidate in economics and
+data science who specializes in statistical modeling, causal inference,
+and/or structural analysis to advance data-centric decision-making at
+Duolingo. The ideal candidate will have a background in the education
+field and/or in measuring learning gains. They will collaborate closely
+with executive leadership in Engineering and Product Management to
+develop and deliver metrics, attribution models, and actionable business
+analyses. They will evangelize scientific methods and influence
+strategic business decisions, with an appreciation for the behaviors and
+learning patterns of Duolingo users. They will be a strong advocate and
+mentor for the Data Science & Analytics team and help advance their
+learning, creativity, and growth.\
+\
+We are passionate about educating our users, making fact-based
+decisions, and finding innovative solutions to complex problems. We
+offer meaningful work, limitless learning opportunities, and
+collaboration with thoughtful peers. Come brighten your life and over
+half a billion more!**\
+\
+What You'll Do\...**
+
+-   Partner in leading the cycle of translating ideas from concept to
+    production-grade economic models and data science solutions,
+    ensuring long-term viability and robustness.
+
+-   Apply advanced analytical methods, structural approaches, causal
+    inference, and/or machine learning to model user behavior, develop
+    learning metrics, and identify learning improvements.
+
+-   Understand and lead the process of gathering, extracting, and
+    compiling data across sources via relevant tools (e.g., SQL, R,
+    Python). Independently format, re-structure, and/or validate data to
+    ensure quality.
+
+-   Collaborate with data engineers and business intelligence to turn
+    insights into data products (e.g. data pipelines, algorithms,
+    self-service dashboards).
+
+-   Effectively communicate findings and insights to executive partners
+    and collaborate with product development teams to integrate them
+    into decision-making.
+
+-   Stay informed about advancements in applied economics and
+    statistical methodologies to drive enhancements in internal tooling
+    and methods at Duolingo.
+
+-   Provide guidance and mentorship to the Data Science & Analytics
+    team, fostering an environment of excellence, innovation, and
+    collaboration.
+
+**What We're Looking For...**
+
+-   PhD in Economics, Statistics, Data Science, or a related
+    quantitative field.
+
+-   4 + years of work experience using analytics to solve product or
+    business problems, coding (e.g., Python, R, SQL), querying
+    databases, and economics/statistical modeling.
+
+-   Exceptional problem-solving abilities and the capacity to translate
+    complex data into actionable insights.
+
+-   Excellent verbal and written communication skills with the ability
+    to collaborate effectively with both technical and non-technical
+    partners.
+
+-   Able to relocate to or work in our New York or Pittsburgh office.
+
+**Why you'll love working here...**
+
+-   Generous PTO and company holidays
+
+-   High quality medical, dental, and vision care
+
+-   Comprehensive mental health, backup care, and family forming support
+
+-   Paid parental leave for birthing and non-birthing parents
+
+-   Language learning opportunities
+
+-   Catered in-house lunches and breakfast
+
+-   Frequent company-wide dinners, monthly celebrations, social clubs,
+    and so much more!
+
+We invest in and support our Duos! This role is eligible for a robust
+compensation package of base salary, equity, and Duolingo's world-class
+benefits. The starting base salary range for this role is, \$144,500 -
+\$294,000. Actual salary may vary based on level, work experience,
+performance, and other factors evaluated during the hiring process.\
+\
+We will do everything we can within reason to make sure that your
+interview takes place in an environment that fairly and accurately
+assesses your skills. If you need assistance or accommodation, please
+contact your recruiter.\
+\
+Take a peek at how we care for our employees\' holistic well-being with
+our benefits here .
+
 -------------------------------------------------------
 
 # Grammarly
@@ -232,82 +346,164 @@ our benefits here .
 
 As a member of the strategic research team, you will: 
 
--   Work on challenging research problems alongside a group of top-notch
-    researchers.
-
--   Effectively utilize unique datasets and computing resources for your
-    research, and collaborate with the product teams to develop
-    cutting-edge products.
-
--   Contribute to the research community by publishing results and
-    participating in conferences and workshops.
+- Work on challenging research problems alongside a group of top-notch
+  researchers.
+- Effectively utilize unique datasets and computing resources for your
+  research, and collaborate with the product teams to develop
+  cutting-edge products.
+- Contribute to the research community by publishing results and
+  participating in conferences and workshops.
 
 **We're Looking For Someone Who**
 
--   Embodies our EAGER values---is ethical, adaptable, gritty,
-    empathetic, and remarkable.
-
--   Is inspired by our MOVE principles, which are the blueprint for how
-    things get done at Grammarly: move fast and learn faster, obsess
-    about creating customer value, value impact over activity, and
-    embrace healthy disagreement rooted in trust.
-
--   Is able to collaborate in person 2 weeks per quarter, traveling if
-    necessary to the hub where the team is based.
-
--   Has deep and broad expertise in modern machine learning methods
-    related to natural language processing.
-
--   Has experience in Deep Learning, LLMs, and/or classical methods.
-
--   Can define the directions and perform strategic breakthrough
-    research that improves life for millions of people.
-
--   Is able to effectively collaborate with other teams at the company
-    and external business and research organizations.
-
--   Has practical skills using modern ML frameworks such as PyTorch,
-    JAX, HuggingFace, Weights and Biases, and others.
+- Embodies our EAGER values---is ethical, adaptable, gritty,
+  empathetic, and remarkable.
+- Is inspired by our MOVE principles, which are the blueprint for how
+  things get done at Grammarly: move fast and learn faster, obsess
+  about creating customer value, value impact over activity, and
+  embrace healthy disagreement rooted in trust.
+- Is able to collaborate in person 2 weeks per quarter, traveling if
+  necessary to the hub where the team is based.
+- Has deep and broad expertise in modern machine learning methods
+  related to natural language processing.
+- Has experience in Deep Learning, LLMs, and/or classical methods.
+- Can define the directions and perform strategic breakthrough
+  research that improves life for millions of people.
+- Is able to effectively collaborate with other teams at the company
+  and external business and research organizations.
+- Has practical skills using modern ML frameworks such as PyTorch,
+  JAX, HuggingFace, Weights and Biases, and others.
 
 **Support for you, professionally and personally**
 
--   Professional growth: We believe that autonomy and trust are key to
-    empowering our team members to do their best, most innovative work
-    in a way that aligns with their interests, talents, and well-being.
-    We support professional development and advancement with training,
-    coaching, and regular feedback.
-
--   A connected team: Grammarly builds a product that helps people
-    connect, and we apply this mindset to our own team. Our remote-first
-    hybrid model enables a highly collaborative culture supported by our
-    EAGER (ethical, adaptable, gritty, empathetic, and remarkable)
-    values. We work to foster belonging among team members in a variety
-    of ways. This includes our employee resource groups, Grammarly
-    Circles, which promote connection among those with shared
-    identities, such as BIPOC and
-    [LGBTQIA+](https://www.grammarly.com/blog/supportive-workplace-for-lgbtqia/)
-    team members, women, and parents. We also celebrate our colleagues
-    and accomplishments with global, local, and team-specific programs.
+- Professional growth: We believe that autonomy and trust are key to
+  empowering our team members to do their best, most innovative work
+  in a way that aligns with their interests, talents, and well-being.
+  We support professional development and advancement with training,
+  coaching, and regular feedback.
+- A connected team: Grammarly builds a product that helps people
+  connect, and we apply this mindset to our own team. Our remote-first
+  hybrid model enables a highly collaborative culture supported by our
+  EAGER (ethical, adaptable, gritty, empathetic, and remarkable)
+  values. We work to foster belonging among team members in a variety
+  of ways. This includes our employee resource groups, Grammarly
+  Circles, which promote connection among those with shared
+  identities, such as BIPOC and
+  [LGBTQIA+](https://www.grammarly.com/blog/supportive-workplace-for-lgbtqia/)
+  team members, women, and parents. We also celebrate our colleagues
+  and accomplishments with global, local, and team-specific programs.
 
 **Compensation And Benefits\
 \
 **Grammarly offers all team members competitive pay along with a
 benefits package encompassing the following and more:
 
--   Excellent health care (including a wide range of medical, dental,
-    vision, mental health, and fertility benefits)
-
--   Disability and life insurance options; 401(k) and RRSP matching
-
--   Twenty days of paid time off per year, eleven days of paid holidays
-    per year, and unlimited sick days
-
--   Home office stipends; Caregiver and pet care stipends; Wellness
-    stipends
+- Excellent health care (including a wide range of medical, dental,
+  vision, mental health, and fertility benefits)
+- Disability and life insurance options; 401(k) and RRSP matching
+- Twenty days of paid time off per year, eleven days of paid holidays
+  per year, and unlimited sick days
+- Home office stipends; Caregiver and pet care stipends; Wellness
+  stipends
 
 **United States:** Zone 1: \$329,000 -- \$399,000/year (USD); Zone 2:
 \$296,000 -- \$359,000/year (USD)
 
+
+## Grammarly: Manager, Data Science (Core)
+\$257K/yr - \$321K/yr , Hybrid
+
+**Check out researcher role above...**
+
+*Grammarly team members in this role must be based in the United States, and they must be able to collaborate in person 4 weeks per quarter, traveling if necessary to the hub(s) where the team is based. Strong preference will be given to those located in the New York City area.*
+
+**The Opportunity**: [Grammarly](http://grammarly.com/about) is the world's leading AI writing assistance company trusted by over 30 million people and 70,000 teams. From instantly creating a first draft to perfecting every message, Grammarly helps people at 96% of the Fortune 500 and teams at companies like Atlassian, Databricks, and Zoom get their point across---and get results---with best-in-class security practices that keep data private and protected. Founded in 2009, Grammarly is No. 7 on the *Forbes* Cloud 100, one of *TIME*'s 100 Most Influential Companies, one of *Fast Company*'s Most Innovative Companies in AI, and one of *Inc.*'s Best Workplaces. To achieve our ambitious goals, we're looking for a Manager - Core Data Science who will use data to directly impact Grammarly's products and strategy. This role will report to the Data Science Director of the Core Product and Quality Data Science organization, which contains multiple data science and software engineering teams. This role provides an opportunity for depth and ownership over our core product experience and broad cross-functional collaboration opportunities with our growth, enterprise, and quality data science teams. Grammarly's engineers and researchers have the freedom to innovate and uncover breakthroughs---and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. You can hear more from our team on our [technical blog](http://grammarly.com/blog/engineering).  
+
+**Your impact**: As a Manager, Core Data Science, you will manage a team of data scientists responsible for identifying and sizing core product opportunities and evaluating the success of new product innovations and feature launches. You will need to see across teams and features to create a holistic picture of the state of our products using data while acting as a trusted thought partner to our product managers and leaders.  
+
+**In This Role, You Will**  
+* Own the technical vision and direction for your data science team (directly manage 5+ data scientists, with opportunities for team growth in the future).
+* Act as a trustworthy data science thought partner to the Product team: Work closely with PMs and Product leadership to identify new opportunities and help direct and shape Grammarly\'s product roadmap using data.
+* Dive deep into the data to become an expert on our product offerings and AI technical infrastructure to help the company make sound strategic decisions.
+* Evangelize metrics best practices: Advocate for clear, useful, scalable North Star metrics, critically examine our metrics, and coach the team to improve them.
+* Be an advocate for rapid and frequent experimentation: encourage experimentation best practices and ensure we learn and improve as a direct result.
+* Develop processes and create cultural norms on the team that help people move more quickly and achieve a larger impact.
+* Cultivate an ownership mindset and culture on your team and across product teams: provide the necessary metrics to help us understand what is working, what is not, and how to fix it.
+* Set high performance and quality standards and coach team members to meet them; mentor and grow junior and senior IC talent.
+
+**We're Looking For Someone Who**
+
+- Embodies our EAGER values---is ethical, adaptable, gritty,
+  empathetic, and remarkable.
+- Is inspired by our MOVE principles, which are the blueprint for how
+  things get done at Grammarly: move fast and learn faster, obsess
+  about creating customer value, value impact over activity, and
+  embrace healthy disagreement rooted in trust.
+- Is able to collaborate in person 4 weeks per quarter, traveling if
+  necessary to the hub where the team is based.
+- Has at least 2+ years of management experience.
+- Has the ability and desire to operate in a fast-paced, dynamic
+  environment where things change quickly.
+- Can wade through ambiguity and disagreement to chart a clear path
+  forward and is highly skilled at bringing stakeholders together to
+  reach alignment.
+- Has strong communication skills and can express a transparent,
+  trustworthy, data-driven point of view with senior leaders.
+- Is a proactive and self-driven problem-solver who has independently
+  spearheaded and driven complex, cross-functional projects to a
+  successful outcome.
+- Has the technical skills necessary to guide/coach the data science
+  team to deliver impactful and high-quality work (expertise in
+  statistics, A/B testing, SQL, and Python or R are a must).
+- Has deep familiarity and experience with product metrics and KPIs,
+  understanding how to measure the success of products at all stages
+  of development.
+- Has a strong product mindset, understands how great products operate
+  and are built, and has extensive experience working with PMs.
+- Has strong data intuition and detail orientation. Understands what
+  to expect from product data. Can interpret and tease through complex
+  data to find actionable insight. Skilled at spotting quality issues.
+- Has a proven track record of developing useful metrics that gained
+  traction within an organization and led to tangible outcomes.
+- Has an experimentation mindset, adheres to experimentation best
+  practices, and knows how to design and run high-impact experiments.
+- Bonus points if you:
+    - Have experience directly driving product roadmap conversations.;
+      Have a mix of larger (\~1000+ ees) tech company and startup
+      experience.
+
+**Support for you, professionally and personally**
+
+- Professional growth: We believe that autonomy and trust are key to
+  empowering our team members to do their best, most innovative work
+  in a way that aligns with their interests, talents, and well-being.
+  We support professional development and advancement with training,
+  coaching, and regular feedback.
+- A connected team: Grammarly builds a product that helps people
+  connect, and we apply this mindset to our own team. Our remote-first
+  hybrid model enables a highly collaborative culture supported by our
+  EAGER (ethical, adaptable, gritty, empathetic, and remarkable)
+  values. We work to foster belonging among team members in a variety
+  of ways. This includes our employee resource groups, Grammarly
+  Circles, which promote connection among those with shared
+  identities, such as BIPOC and
+  [LGBTQIA+](https://www.grammarly.com/blog/supportive-workplace-for-lgbtqia/)
+  team members, women, and parents. We also celebrate our colleagues
+  and accomplishments with global, local, and team-specific programs.
+
+**Compensation And Benefits:** Grammarly offers all team members
+competitive pay along with a benefits package encompassing the following
+and more:
+
+- Excellent health care (including a wide range of medical, dental,
+  vision, mental health, and fertility benefits); Disability and life
+  insurance options; 401(k) and RRSP matching
+- Twenty days of paid time off per year, eleven days of paid holidays
+  per year, and unlimited sick days; Home office stipends; Caregiver
+  and pet care stipends; Wellness stipends
+
+**United States:** Zone 1: \$285,000 -- \$321,000/year (USD); Zone 2:
+\$257,000 -- \$289,000/year (USD)
 
 ---------------------------------------------------
 
@@ -1837,6 +2033,88 @@ benefits. Learn more about benefits at Google .\
     evaluate the impact of research, finalize hypotheses, and refine the
     research methodology under minimal guidance.
 
+
+## Google: Data Scientist III, Research
+\$127,000-\$187,000 + bonus + equity + benefits; hybrid 
+
+**I like the research scientist positions best, but worth checking out**
+
+## **Minimum qualifications:** {#minimum-qualifications .unnumbered}
+
+-   Master\'s degree in Statistics, Data Science, Mathematics, Physics,
+    Economics, Operations Research, Engineering, or a related
+    quantitative field.
+
+-   3 years of work experience using analytics to solve product or
+    business problems, coding (e.g., Python, R, SQL), querying databases
+    or statistical analysis, or a PhD degree.
+
+**Preferred qualifications:**
+
+-   5 years of work experience using analytics to solve product or
+    business problems, coding (e.g., Python, R, SQL), querying databases
+    or statistical analysis, or a PhD degree.
+
+**About The Job:** Google is and always will be an engineering company.
+We hire people with a broad set of technical skills who are ready to
+take on some of technology\'s greatest challenges and make an impact on
+millions, if not billions, of users. At Google, data scientists not only
+revolutionize search, they routinely work on massive scalability and
+storage solutions, large-scale applications and entirely new platforms
+for developers around the world. From Google Ads to Chrome, Android to
+YouTube, Social to Local, Google engineers are changing the world one
+technological achievement after another. As a Data Scientist, you will
+evaluate and improve Google\'s products. You will collaborate with a
+multi-disciplinary team of engineers and analysts on a wide range of
+problems. This position will bring scientific rigor and statistical
+methods to the challenges of product creation, development and
+improvement with an appreciation for the behaviors of the end user.\
+\
+The US base salary range for this full-time position is
+\$127,000-\$187,000 + bonus + equity + benefits. Our salary ranges are
+determined by role, level, and location. The range displayed on each job
+posting reflects the minimum and maximum target salaries for the
+position across all US locations. Within the range, individual pay is
+determined by work location and additional factors, including
+job-related skills, experience, and relevant education or training. Your
+recruiter can share more about the specific salary range for your
+preferred location during the hiring process.\
+\
+Please note that the compensation details listed in US role postings
+reflect the base salary only, and do not include bonus, equity, or
+benefits. Learn more about benefits at Google .\
+\
+**Responsibilities**
+
+-   Collaborate with stakeholders in cross-projects and team settings to
+    identify and clarify business or product questions to answer.
+    Provide feedback to translate and refine business questions into
+    tractable analysis, evaluation metrics, or mathematical models.
+
+-   Use custom data infrastructure or existing data models as
+    appropriate, using specialized knowledge. Design and evaluate models
+    to mathematically express and solve defined problems with limited
+    precedent.
+
+-   Gather information, business goals, priorities, and organizational
+    context around the questions to answer, as well as the existing and
+    upcoming data infrastructure.
+
+-   Own the process of gathering, extracting, and compiling data across
+    sources via relevant tools (e.g., SQL, R, Python). Independently
+    format, re-structure, and/or validate data to ensure quality, and
+    review the dataset to ensure it is ready for analysis.
+
+Google is proud to be an equal opportunity workplace and is an
+affirmative action employer. We are committed to equal employment
+opportunity regardless of race, color, ancestry, religion, sex, national
+origin, sexual orientation, age, citizenship, marital status,
+disability, gender identity or Veteran status. We also consider
+qualified applicants regardless of criminal histories, consistent with
+legal requirements. See also Google\'s EEO Policy and EEO is the Law. If
+you have a disability or special need that requires accommodation,
+please let us know by completing our Accommodations for Applicants form
+
 -----------------------------
 
 # Signify
@@ -1931,3 +2209,143 @@ intelligence.
 
 *Apply now and be part of a team that is making a real impact in the
 world of AI*
+
+-------------------
+
+# Adobe
+
+## Adobe: Director, Data Science -- Customer Engineering
+\$191.7K/yr - \$345.7K/yr, Remote
+
+**NOTE: quite a few interesting roles at Adobe**
+
+**Our Company:** Changing the world through digital experiences is what
+Adobe's all about. We give everyone---from emerging artists to global
+brands---everything they need to design and deliver exceptional digital
+experiences! We're passionate about empowering people to create
+beautiful and powerful images, videos, and apps, and transform how
+companies interact with customers across every screen. We're on a
+mission to hire the very best and are committed to creating exceptional
+employee experiences where everyone is respected and has access to equal
+opportunity. We realize that new ideas can come from everywhere in the
+organization, and we know the next big idea could be yours!\
+
+**The Opportunity :** We seek a senior, experienced 'hands-on' Data
+Science leader to join our Customer Engineering team within the Adobe
+Digital Experience (DX) Cloud Engineering. Customer Engineering (CE)
+focuses on multiple aspects of product experience for Adobe Experience
+Platform (AEP) and AEP-related Apps, including diagnostics and
+prevention of customer issues a nd technical enablement to help
+customers quickly and iteratively move through the product adoption
+lifecycle to realize business value. The CE team also partners closely
+with our Adobe Field teams (Pre-Sales, Consulting, and Support) Field
+and 3rd party partners to collect and synthesize real-world customer
+patterns to align our product roadmap and develop technical frameworks
+and tooling to help these field teams achieve scale and impact as they
+engage with customers. As our AEP business grows , our product and
+broader engineering teams are challenged to scale themselves to meet the
+customer and field team demands . In particular, various teams need
+data-driven, actionable in sights that help identify , priori tize, and
+focus people and technology investments to help customer s struggling to
+run, operate , or grow business impact from their AEP E2E system. In
+addition, there is ample opportunity to infuse more customer self -serve
+intelligence into our products through reporting, analytics, and even AI
+assistance . This senior leader would be the founding member of a
+Customer Data Science (CDS) team to take on these challenges --
+requiring this leader to develop and execute a team charter and roadmap
+, resulting in new customer and operational KPI reporting , predictive
+intelligence (e.g. , at - risk customers , customer maturity, etc. ) ,
+and in-product customer usage and value frameworks in collaborat ion
+with other data science related teams , such as our ML ops and decision
+science platform teams.\
+
+
+**What You'll Do**
+
+* Analyze large and complex data sets related to AEP customer platform
+health, usage, and performance metrics to uncover insights and identify
+opportunities to improve customer support processes, system
+implementation, or product enhancements
+* Develop and monitor AEP key performance indicators (KPIs) and metrics
+to track customer - level E2E platform health, capability usage and
+adoption, value realization , and other critical customer platform
+success measures
+* Conduct exploratory data analysis to identify patterns, trends, and
+correlations that can inform product and engineering strategy and guide
+decision-making Collaborate closely with product managers, engineers,
+and other cross-functional teams to understand customer product goals,
+translate business questions into analytical tasks, and provide
+data-driven recommendations
+* Build statistical models and machine learning algorithms to predict
+customer issues, identify product adoption drivers (points of struggle )
+, personalize product support interaction s , and optimize product
+performance
+* Communicate findings and insights effectively through clear data
+visualizations, reports, and presentations to technical and
+non-technical stakeholders
+* Partner with engineering and other business intelligence teams to
+design and automate data pipelines , improve data tracking, data
+quality, and the overall data infrastructure supporting customer and
+platform analytics\
+
+\
+**What You Need To Succeed:** The optimal candidate will have 10+ years'
+experience in data science or related analytics role s (product,
+customer analytics) , including a unique blend of applied data science
+technical expertise , analytical prowess, business savv y ,
+communication skills, and leadership abilities to drive data-driven
+innovation and decision-making . Detailed list of desired skills as
+follows:\
+\
+Technical skills
+
+- Expertise in machine learning, predictive modeling, data mining, and
+  advanced statistical techniques.
+- Proficiency in programming languages like Python , SQL, and working
+  with big data tools like Spark and Hadoop
+- Experience with data visualization tools like Tableau for
+  effectively communicating insights
+- Knowledge of cloud platforms like Amazon Web Services for data
+  processing and model deployment
+
+Analytical and Problem-Solving Skills :
+
+- Excellent analytical and problem-solving abilities to extract
+  insights from complex datasets and drive data-driven
+  decision-making.
+- Curiosity and passion for exploring new techniques and staying
+  updated with the latest advancements in data science
+- Innovative mindset to develop novel solutions and find the \"next
+  big thing\" that differentiates the organization
+
+Business and Communication Skills
+
+- Strong business acumen to understand organizational goals and
+  translate them into analytical tasks.
+- Ability to communicate complex technical concepts simply through
+  data storytelling and visualizations.
+- Consultative approach to collaborat ing with cross-functional teams
+  and stakeholders
+
+Leadership and Management Skills
+
+- Leadership skills to guide and mentor junior data scientists and
+  drive data science strategy.
+- Project management experience to oversee end-to-end data science
+  projects and initiatives.
+- Ability to prioritize and manage multiple projects simultaneously
+  while meeting deadlines.
+
+Our compensation reflects the cost of labor across several  U.S.
+geographic markets, and we pay differently based on those defined
+markets. The U.S. pay range for this position is \$191,700 \-- \$345,700
+annually. Pay within this range varies by work location and may also
+depend on job-related knowledge, skills, and experience. Your recruiter
+can share more about the specific salary range for the job location
+during the hiring process. At Adobe, for sales roles starting salaries
+are expressed as total target compensation (TTC = base + commission),
+and short-term incentives are in the form of sales commission plans.
+Non-sales roles starting salaries are expressed as base salary and
+short-term incentives are in the form of the Annual Incentive Plan
+(AIP). In addition, certain roles may be eligible for long-term
+incentives in the form of a new hire equity award.
