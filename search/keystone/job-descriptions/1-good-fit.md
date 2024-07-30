@@ -15,6 +15,1140 @@
 * [Two Sigma](#two-sigma)
 * [Waymo](#waymo)
 
+-----------------------------------------------------
+
+# DoorDash
+
+## DoorDash: Staff Software Engineer, Machine Learning - Voice Ordering AI\
+\$201.9K/yr - \$302.9K/yr, likely hybrid (most teams)
+
+**About The Team:** Come help us build the world\'s most reliable
+on-demand, logistics engine for last-mile grocery and retail delivery!
+We\'re looking for an experienced Staff Machine Learning Engineer to
+help us develop the cutting-edge NLP and product knowledge graph models
+that power DoorDash\'s growing grocery and retail business.\
+\
+**About The Role:** We're looking for a passionate Applied Machine
+Learning expert to join our team. As a Staff Machine Learning Engineer,
+you'll be conceptualizing, designing, implementing, and validating
+algorithmic improvements to the catalog system and our product knowledge
+graph at the heart of our fast-growing grocery and retail delivery
+business. You will use our robust data and machine learning
+infrastructure to implement new ML solutions to make our product
+knowledge graph accurate, standardized, semantically rich, easily
+discoverable, and extensible. We're looking for someone with a command
+of production-level machine learning and experience with solving
+end-user problems who enjoys collaborating with multi-disciplinary
+teams.\
+\
+You will report into the engineering manager on our New Verticals,
+Catalog ML team. We expect this role to be hybrid with some time
+in-office and some time remote.\
+\
+**You're Excited About This Opportunity Because You Will...**
+
+-   Develop production machine learning solutions to solve catalog
+    building and quality problems such as entity recognition, entity
+    resolution, attribute extraction, and category classification, image
+    classification.
+
+-   Partner with engineering, product, and business strategy leaders to
+    help shape an ML-driven product roadmap and grow a multi-billion
+    dollar retail delivery business.
+
+-   Find new ways to use diverse data sources, intuitive models, and
+    flexible experimentation to create a world-class shopping and
+    dashing experience.
+
+You can find out more on our ML blog post [here](https://doordash.engineering/category/data-science-and-machine-learning/)
+
+**We\'re Excited About You Because You Have...**
+
+-   8+ years of industry experience developing machine learning models
+    with business impact, and shipping ML solutions to production.
+
+-   Experience with machine learning methods in building product
+    knowledge graphs.
+
+-   Machine learning background in Python; experience with PyTorch,
+    TensorFlow, or similar frameworks and familiarity with Natural
+    Language Processing (LLM, Entity Recognition, Entity Resolution,
+    Classification), Graph-based Models, and Computer Vision.
+
+-   M.S., or PhD. in Statistics, Computer Science, Math, Operations
+    Research, Physics, Economics, or other quantitative fields.
+
+-   The desire for impact with a growth-minded and collaborative mindset
+
+**About DoorDash:** At DoorDash, our mission to empower local economies
+shapes how our team members move quickly, learn, and reiterate in order
+to make impactful decisions that display empathy for our range of
+users---from Dashers to merchant partners to consumers. We are a
+technology and logistics company that started with door-to-door
+delivery, and we are looking for team members who can help us go from a
+company that is known for delivering food to a company that people turn
+to for any and all goods.\
+\
+DoorDash is growing rapidly and changing constantly, which gives our
+team members the opportunity to share their unique perspectives, solve
+new challenges, and own their careers. We\'re committed to supporting
+employees' happiness, healthiness, and overall well-being by providing
+comprehensive benefits and perks including premium healthcare, wellness
+expense reimbursement, paid parental leave and more.
+
+**Compensation:** The location-specific base salary range for this
+position is listed below. Compensation in other geographies may vary.
+Actual compensation within the pay range will be decided based on
+factors including, but not limited to, skills, prior relevant
+experience, and specific work location. For roles that are available to
+be filled remotely, base salary is localized according to employee work
+location. Please discuss your intended work location with your recruiter
+for more information.\
+\
+DoorDash cares about you and your overall well-being, and that's why we
+offer a comprehensive benefits package, for full-time employees, that
+includes healthcare benefits, a 401(k) plan including an employer match,
+short-term and long-term disability coverage, basic life insurance,
+wellbeing benefits, paid time off, paid parental leave, and several paid
+holidays, among others.\
+\
+In addition to base salary, the compensation package for this role also
+includes opportunities for equity grants.\
+\
+We use Covey as part of our hiring and / or promotional process for jobs
+in NYC and certain features may qualify it as an AEDT. As part of the
+evaluation process we provide Covey with job requirements and candidate
+submitted applications. We began using [Covey Scout for
+Inbound](https://getcovey.com/product/covey-scout-inbound) on June 20,
+2024. **New York Pay Range: \$201,900---\$302,900 USD**
+
+## DoorDash: Many Other Roles
+**Typically \$150K/yr - \$260K/yr, likely hybrid (most teams)
+
+See LinkedIn for more. (Voice one seemed most interesting/relevant.)
+
+--------------------------------------------
+
+# Duolingo
+
+## Duolingo: Senior AI Research Engineer
+\$166.5K/yr - \$273K/yr, Hybrid (onsite Tues-Thurs)
+
+Our mission at Duolingo is to develop the best education in the world
+and make it universally available. But we've got more left to do --- and
+that's where you come in! Duolingo is the world\'s most popular learning
+app. Beyond our core learning product, we also offer English proficiency
+testing with the Duolingo English Test, and are bringing new subjects
+into the Duolingo app, where people can develop their Math and Music
+skills. We are passionate about educating our users, making fact-based
+decisions, and finding innovative solutions to complex problems. We
+offer meaningful work, limitless learning opportunities, and
+collaboration with world-class minds. Come brighten your life and over
+half a billion more!\
+\
+We are searching for an AI Research Engineer experienced with
+recommendation systems to join our efforts to personalize learning.
+Duolingo has a unique opportunity to define the future of personalized
+education with one of the world's largest datasets. The AI Research
+Engineer role at Duolingo is quite broad, with responsibilities ranging
+from engaging with the research community via publishing papers and
+attending conferences, to bringing the latest advances in AI to our
+product by collaborating with our research scientists and software
+engineers. Research engineers are expected to both innovate and
+implement. As such, we look for applicants with both an accomplished
+research portfolio as well as a strong software engineering background.
+AI research engineers often own projects from end-to-end, beginning with
+ideation, data collection, R&D, and culminating in putting your work in
+front of our learners. **Want to learn more about projects our team is
+working on? Checkout this video from one of our Senior AI Research
+Scientist!\
+\
+You Will\...**
+
+-   Solve our most ambitious problems with the right tool for the task
+
+-   Collaborate cross-functionally to bring your ideas to life in the
+    product
+
+-   Identify problems, prototype solutions, evaluate their return on
+    investment, and then implement the best solution at scale to improve
+    the lives of our millions of learners each day
+
+-   Share your findings both within Duolingo as well as to the broader
+    research community
+
+**You Have\...**
+
+-   A creative, interdisciplinary, and entrepreneurial approach to R&D
+
+-   Strong debugging and critical thinking skills
+
+**Requirements**
+
+-   M.S./Ph.D. in machine learning, AI, computer science, or a related
+    technical field
+
+-   2 years of industry experience
+
+-   Experience working with recommendation systems
+
+-   Outstanding interpersonal communication and organizational skills
+
+-   Experience implementing AI systems at scale
+
+-   Ability to relocate to New York, NY or Pittsburgh, PA
+
+**Exceptional Candidates Will Have\...**
+
+-   5 years of post-doctoral and/or industry experience
+
+-   Experience mentoring or managing junior scientists or engineers
+
+-   A strong publication record
+
+We invest in and support our Duos! This role is eligible for a robust
+compensation package of base salary, equity, and Duolingo's world-class
+benefits. The starting base salary range for this role is,
+\$166,500-\$273,000. Actual salary may vary based on level, work
+experience, performance, and other factors evaluated during the hiring
+process. We will do everything we can within reason to make sure that
+your interview takes place in an environment that fairly and accurately
+assesses your skills. If you need assistance or accommodation, please
+contact your recruiter.\
+\
+Take a peek at how we care for our employees\' holistic well-being with
+our benefits here .
+
+-------------------------------------------------------
+
+# Grammarly
+
+## Grammarly: Researcher, Strategic Research
+\$279K/yr - \$399K/yr, hybrid (seems largely remote)
+
+*Grammarly team members in this role must be based in the United States or Canada, and they must be able to collaborate in person 2 weeks per quarter, traveling if necessary to the hub(s) where the team is based.*  
+
+[Grammarly](http://grammarly.com/about) is the world's leading AI writing assistance company trusted by over 30 million people and 70,000 professional teams every day. From instantly creating a first draft to perfecting every message, Grammarly's product offerings help people at 96% of the Fortune 500 get their point across---and get results. Grammarly has been profitable for over a decade because we've stayed true to our values and built an enterprise-grade product that's secure, reliable, and helps people do their best work---without selling their data. We're proud to be one of Inc.'s best workplaces, a Glassdoor Best Place to Work, one of TIME's 100 Most Influential Companies, and one of Fast Company's Most Innovative Companies in AI.  To achieve our ambitious goals, we're looking for a Research Scientist, Advanced Natural Language, to join our Strategic Research team. The person in this role will work on the strategic research team, with the goal of propelling the company to the forefront of technology. The responsibilities of this role include working on strategic research and product technology. The role requires collaborating with industry and academia to advance the company\'s research and development efforts.  Grammarly's engineers and researchers have the freedom to innovate and uncover breakthroughs---and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. You can hear more from our team on our [technical blog](http://grammarly.com/blog/engineering).  
+
+As a member of the strategic research team, you will: 
+
+-   Work on challenging research problems alongside a group of top-notch
+    researchers.
+
+-   Effectively utilize unique datasets and computing resources for your
+    research, and collaborate with the product teams to develop
+    cutting-edge products.
+
+-   Contribute to the research community by publishing results and
+    participating in conferences and workshops.
+
+**We're Looking For Someone Who**
+
+-   Embodies our EAGER values---is ethical, adaptable, gritty,
+    empathetic, and remarkable.
+
+-   Is inspired by our MOVE principles, which are the blueprint for how
+    things get done at Grammarly: move fast and learn faster, obsess
+    about creating customer value, value impact over activity, and
+    embrace healthy disagreement rooted in trust.
+
+-   Is able to collaborate in person 2 weeks per quarter, traveling if
+    necessary to the hub where the team is based.
+
+-   Has deep and broad expertise in modern machine learning methods
+    related to natural language processing.
+
+-   Has experience in Deep Learning, LLMs, and/or classical methods.
+
+-   Can define the directions and perform strategic breakthrough
+    research that improves life for millions of people.
+
+-   Is able to effectively collaborate with other teams at the company
+    and external business and research organizations.
+
+-   Has practical skills using modern ML frameworks such as PyTorch,
+    JAX, HuggingFace, Weights and Biases, and others.
+
+**Support for you, professionally and personally**
+
+-   Professional growth: We believe that autonomy and trust are key to
+    empowering our team members to do their best, most innovative work
+    in a way that aligns with their interests, talents, and well-being.
+    We support professional development and advancement with training,
+    coaching, and regular feedback.
+
+-   A connected team: Grammarly builds a product that helps people
+    connect, and we apply this mindset to our own team. Our remote-first
+    hybrid model enables a highly collaborative culture supported by our
+    EAGER (ethical, adaptable, gritty, empathetic, and remarkable)
+    values. We work to foster belonging among team members in a variety
+    of ways. This includes our employee resource groups, Grammarly
+    Circles, which promote connection among those with shared
+    identities, such as BIPOC and
+    [LGBTQIA+](https://www.grammarly.com/blog/supportive-workplace-for-lgbtqia/)
+    team members, women, and parents. We also celebrate our colleagues
+    and accomplishments with global, local, and team-specific programs.
+
+**Compensation And Benefits\
+\
+**Grammarly offers all team members competitive pay along with a
+benefits package encompassing the following and more:
+
+-   Excellent health care (including a wide range of medical, dental,
+    vision, mental health, and fertility benefits)
+
+-   Disability and life insurance options; 401(k) and RRSP matching
+
+-   Twenty days of paid time off per year, eleven days of paid holidays
+    per year, and unlimited sick days
+
+-   Home office stipends; Caregiver and pet care stipends; Wellness
+    stipends
+
+**United States:** Zone 1: \$329,000 -- \$399,000/year (USD); Zone 2:
+\$296,000 -- \$359,000/year (USD)
+
+
+---------------------------------------------------
+
+# Jane Street
+## Jane Street: Machine Learning Researcher
+
+\$250,000 - \$300,000, Hybrid
+
+**About the Position**
+
+Machine learning is a critical pillar of Jane Street\'s global business,
+and our ever-changing trading environment serves as a unique,
+rapid-feedback platform for ML experimentation.
+
+Researchers at Jane Street are responsible for building models,
+strategies, and systems that price and trade a variety of financial
+instruments. As a mix of the trading and software engineering roles,
+this work involves many things: analyzing large datasets, building and
+testing models, creating new trading strategies, and writing the code
+that implements them.
+
+We're looking for people to join the research team with deep ML
+experience in either an applied or academic context. A good candidate
+should have a deep understanding of a wide variety of ML techniques, and
+a passion for tinkering with model architectures, feature
+transformations, and hyperparameters to generate robust inferences. We
+also want people who are good communicators, with the ability to quickly
+absorb the context of a new problem, carefully consider tradeoffs, and
+recommend possible solutions.
+
+As an ML researcher, your expertise will also shape the firm\'s future
+ML developments including hiring new ML researchers, attending
+conferences, teaching techniques to teammates, and setting firmwide
+goals.
+
+Base salary is \$250,000 - \$300,000. Base salary is only one part of
+Jane Street total compensation, which includes an annual discretionary
+bonus.
+
+## Jane Street: Statistical Arbitrage Researcher
+\$250,000 - \$300,000, Hybrid
+
+**About the Position**
+
+We are looking for a Statistical Arbitrage Researcher who is excited to
+apply rigorous math and statistical methods to analyze a variety of
+input datasets to create novel alpha-focused trading strategies for Jane
+Street. Your work has the potential to span across any and all liquid
+asset classes, including, but not limited to, U.S. and global equities,
+equity and fixed income futures, FX, and corporate bonds.
+
+Ideally, you will have previous experience working in a buy-side or
+sell-side financial firm with some combination of asset price returns
+data, non-returns-based traditional data, and "alternative" data sets.
+However, if you are an economist or data scientist in a different field
+(such as tech) we're open to teaching you what you need to know to
+thrive in this role.
+
+We are looking for someone who is eager to dig deep into the details of
+data sets to assess quality and consider outliers, dimensionality,
+feature engineering, causality, aligning dates across datasets, and
+more.
+
+You'll help us stay vigilant in our efforts to find and correct errors
+or mistakes in code, which inevitably happen --- though we expect this
+role to involve as much time delving into the lovely messiness and
+complexity of data as it will on advanced statistical modeling.
+
+The problems we work on rarely have clean, definitive answers, and they
+often require insights from people across the firm with different areas
+of expertise. We find that we make the most progress when team members
+collaborate and communicate fluidly. Your success in this role will
+depend on your ability to balance expertise and intellectual rigor with
+an open mind to a variety of techniques and modes of thinking.
+
+We don't believe in "one-size-fits-all" solutions; we are open to and
+excited about applying all different types of mathematical and
+statistical techniques, depending on what best fits a given problem.
+Progress takes place at different tempos on our team depending on the
+project, so you'll need to be comfortable embracing both large leaps and
+incremental steps forward.
+
+**About You**
+
+-   2-6 years of professional experience working in a data-rich
+    environment in quantitative research
+
+-   Team player with a highly collaborative mindset; communicates
+    clearly and often and enjoys discussing research ideas and results
+    in depth
+
+-   Open to a variety of techniques and modes of thinking
+
+-   Humble about what you do and don't know; willing to admit mistakes
+
+-   Enjoys learning new skills and teaching others what you know
+
+-   Able to write code and analyze large datasets
+
+-   Experienced with statistical and ML modeling
+
+-   Knowledge of Python preferred, but not required
+
+-   Background knowledge of financial markets is a plus
+
+Base salary is \$250,000 - \$300,000. Base salary is only one part of
+Jane Street total compensation, which includes an annual discretionary
+bonus.
+
+
+------------------------------------------------------
+
+# Meta
+## Meta: Research Engineer - Reality Labs
+\$70.67/yr - \$208K/yr 
+
+Meta Reality Labs is looking for a Research Engineer to help us unleash
+human potential by eliminating the bottlenecks between intent and
+action. To achieve this, we\'re building a practical neural interface
+drawing on the rich neuromotor signals that can be measured
+non-invasively using electromyography (EMG). Our research lies at the
+intersection of computational neuroscience, machine learning, signal
+processing, statistics, biophysics, and human-computer interaction.
+We\'re looking for people who want to shape the future of this
+technology and are excited about joining our collaborative research
+team. As a Research Engineer working at the Reality Labs, you will be
+responsible for the implementation and acceleration of our EMG machine
+learning platform; creating new AI models, tools, and infrastructure
+that unlock the capabilities of our technology; productionizing our
+research results, and working with scientists, software engineers,
+hardware engineers and designers to advance the company\'s AI-driven
+AR/VR agenda.\
+\
+Research Engineer - Reality Labs Responsibilities:
+
+-   Research and develop Deep Learning or other computational models
+    with at least one of Computer Vision, and EMG signal processing.
+
+-   Design methods, tools and infrastructure to analyze and leverage
+    rich multimodal data sets.
+
+-   Collaborate with research scientists and research engineers to
+    develop innovative deep learning models that define the next
+    generation EMG-based AR/VR interaction techniques.
+
+-   Define short-term research goals, informed by practical engineering
+    concerns.
+
+-   Help transition and deliver our work from research into product.
+
+-   Adapt standard machine learning methods to best utilize modern
+    parallel environments (e.g. distributed clusters, multicore SMP, and
+    GPU).
+
+Minimum Qualifications:
+
+-   Bachelor\'s degree in Computer Science, Computer Engineering,
+    relevant technical field, or equivalent practical experience.
+
+-   Masters degree in Computer Science, Computer Engineering, or
+    relevant technical field.
+
+-   Experience with developing machine learning models at scale from
+    inception to business impact.
+
+-   Research experience in machine learning and deep learning.
+
+-   Programming experience in Python and hands-on experience with
+    frameworks such as PyTorch.
+
+-   Exposure to architectural patterns of large scale software
+    applications.
+
+-   Must obtain work authorization in the country of employment at the
+    time of hire, and maintain ongoing work authorization during
+    employment.
+
+Preferred Qualifications:
+
+-   Ph.D. degree and publications in machine learning, signal
+    processing, electrical engineering, computer science, statistics,
+    physics, or related fields.
+
+-   First-author publications at peer-reviewed AI conferences (e.g.
+    NeurIPS, CVPR, ICML, ICLR, ICCV, ACL).
+
+-   Comfort with rapid prototyping and disciplined software development
+    processes.
+
+-   Experience with productizing new research results.
+
+About Meta: Meta builds technologies that help people connect, find
+communities, and grow businesses. When Facebook launched in 2004, it
+changed the way people connect. Apps like Messenger, Instagram and
+WhatsApp further empowered billions around the world. Now, Meta is
+moving beyond 2D screens toward immersive experiences like augmented and
+virtual reality to help build the next evolution in social technology.
+People who choose to build their careers by building with us at Meta
+help shape a future that will take us beyond what digital connection
+makes possible today---beyond the constraints of screens, the limits of
+distance, and even the rules of physics.
+
+## Meta: Research Engineer, Neural Interfaces (Kinematics)
+\$147,000/year to \$208,000/year + bonus + equity + benefits; Hybrid
+
+Meta is seeking Research Engineers with experience in computer vision,
+human behavior and/or kinematics to help us create and scale joint data
+collection of human movement and biosensor data within an
+interdisciplinary team of research scientists and engineers. This work
+will support the development of novel wearable sensors and algorithms to
+power the next generation of neuromotor interfaces and augmented reality
+systems. Help us unleash human potential by removing the bottlenecks
+between user intent and action.\
+\
+Research Engineer, Neural Interfaces (Kinematics) Responsibilities:
+
+-   Collaborate with EMG research and engineering teams to design,
+    optimize, and deploy novel human kinematic tracking experiments,
+    spanning both hardware and algorithms
+
+-   Deploy multimodal data collection pipelines in large scale
+    industrial lab environments
+
+-   Develop technical and procedural safeguards to ensure the integrity
+    and validity of experimental data
+
+-   Develop and evaluate ML models to characterize the impact of
+    kinematic and CV-based features on gesture detection and control
+
+-   Extend our training pipelines, analysis workflows, and associated
+    infrastructure to support novel data streams and tasks
+
+-   Build automation tools to accelerate the processing of experimental
+    data
+
+Minimum Qualifications:
+
+-   Bachelor\'s degree in Computer Science, Computer Engineering,
+    relevant technical field, or equivalent practical experience.
+
+-   Research-oriented software engineering skills (SciPy ecosystem/ML
+    tools, MATLAB)
+
+-   Programming experience in Python and hands-on experience with
+    PyTorch
+
+-   Research experience in machine learning, deep learning, computer
+    vision and/or natural language processing
+
+Preferred Qualifications:
+
+-   Master's degree in AI, machine learning, computer science,
+    electrical engineering, applied mathematics, physics, neuroscience,
+    or related technical fields
+
+-   3+ years of experience in industrial R&D and/or product development
+
+-   Comfort with rapid prototyping and disciplined software development
+    processes
+
+-   Experience developing end-to-end ML pipelines, including: dataset
+    preprocessing, model development and evaluation, and software
+    integration
+
+-   Experience building software frameworks for high-throughput data
+    acquisition using computer vision
+
+-   Programming experience with C++, Android, and Unity
+
+-   Experience working on problems related to pose estimation and
+    movement tracking
+
+-   Research and software engineer experience demonstrated via an
+    internship, contributions to open source, work experience, or coding
+    competition
+
+About Meta: Meta builds technologies that help people connect, find
+communities, and grow businesses. When Facebook launched in 2004, it
+changed the way people connect. Apps like Messenger, Instagram and
+WhatsApp further empowered billions around the world. Now, Meta is
+moving beyond 2D screens toward immersive experiences like augmented and
+virtual reality to help build the next evolution in social technology.
+People who choose to build their careers by building with us at Meta
+help shape a future that will take us beyond what digital connection
+makes possible today---beyond the constraints of screens, the limits of
+distance, and even the rules of physics.\
+\
+\$70.67/hour to \$208,000/year + bonus + equity + benefits\
+\
+Individual compensation is determined by skills, qualifications,
+experience, and location. Compensation details listed in this posting
+reflect the base hourly rate, monthly rate, or annual salary only, and
+do not include bonus, equity or sales incentives, if applicable. In
+addition to base compensation, Meta offers benefits. Learn more about
+[benefits](https://www.metacareers.com/facebook-life/benefits) at Meta.
+
+## Meta: Research Scientist - Reality Labs
+\$143,000/year to \$208,000/year + bonus + equity + benefits; Hybrid 
+
+Reality Labs at Meta is seeking Research Scientists with experience in
+product-focused machine learning and signal processing research to
+advance our pioneering work in neuromotor interfaces, which has grown
+out of the acquisition of CTRL-labs. We're building a practical
+interface drawing on the rich neuromotor signals that can be measured
+non-invasively via surface electromyography (EMG) with single motor
+neuron resolution. This technology could become one of the main pillars
+for interaction with virtual and augmented worlds. We are a
+multi-disciplinary team of researchers investigating the nature of human
+neuromotor signals, developing novel signal processing and machine
+learning methods to infer a user's intent, and creating novel
+interaction techniques and user experiences. Help us unleash human
+potential by removing the bottlenecks between user intent and action.\
+\
+Research Scientist - Reality Labs Responsibilities:
+
+-   Research and develop Deep Learning or other computational models.
+
+-   Design methods, tools and infrastructure to analyze and leverage
+    rich multimodal data sets.
+
+-   Set technical direction for a project of 2-3 researchers and
+    engineers.
+
+-   Help transition and deliver our work from research into product.
+
+-   Adapt standard machine learning methods to best leverage modern
+    parallel environments (e.g. distributed clusters, multicore SMP, and
+    GPU)
+
+Minimum Qualifications:
+
+-   Bachelor\'s degree in Computer Science, Computer Engineering,
+    relevant technical field, or equivalent practical experience.
+
+-   Ph.D. degree in Computer Science and Engineering, Electrical
+    Engineering, Statistics/Mathematics.
+
+-   Experience with developing machine learning models at scale from
+    inception to business impact.
+
+-   Programming experience in Python and hands-on experience with
+    frameworks such as PyTorch.
+
+-   Exposure to architectural patterns of large scale software
+    applications.
+
+-   Must obtain work authorization in the country of employment at the
+    time of hire, and maintain ongoing work authorization during
+    employment.
+
+Preferred Qualifications:
+
+-   First-author publications at peer-reviewed AI conferences (e.g.
+    NeurIPS, CVPR, ICML, ICLR, ICCV, ACL, and ICASSP).
+
+-   Experience in software engineering in industry.
+
+-   Experience bringing machine learning-based products from research to
+    production.
+
+About Meta:\
+\
+Meta builds technologies that help people connect, find communities, and
+grow businesses. When Facebook launched in 2004, it changed the way
+people connect. Apps like Messenger, Instagram and WhatsApp further
+empowered billions around the world. Now, Meta is moving beyond 2D
+screens toward immersive experiences like augmented and virtual reality
+to help build the next evolution in social technology. People who choose
+to build their careers by building with us at Meta help shape a future
+that will take us beyond what digital connection makes possible
+today---beyond the constraints of screens, the limits of distance, and
+even the rules of physics.\
+\
+\$143,000/year to \$208,000/year + bonus + equity + benefits\
+\
+Individual compensation is determined by skills, qualifications,
+experience, and location. Compensation details listed in this posting
+reflect the base hourly rate, monthly rate, or annual salary only, and
+do not include bonus, equity or sales incentives, if applicable. In
+addition to base compensation, Meta offers benefits. Learn more about
+[benefits](https://www.metacareers.com/facebook-life/benefits) at Meta.
+
+## Meta: Research Scientist, Neuromotor Interfaces
+\$143,000/year to \$208,000/year + bonus + equity + benefits; Hybrid 
+
+Reality Labs at Meta is seeking Research Scientists with experience in
+product-focused machine learning and signal processing research to
+advance our pioneering work in neuromotor interfaces, which has grown
+out of the acquisition of CTRL-labs. We're building a practical
+interface drawing on the rich neuromotor signals that can be measured
+non-invasively via surface electromyography (EMG) with single motor
+neuron resolution. This technology could become one of the main pillars
+for interaction with virtual and augmented worlds. We are a
+multi-disciplinary team of researchers investigating the nature of human
+neuromotor signals, developing novel signal processing and machine
+learning methods to infer a user's intent, and creating novel
+interaction techniques and user experiences. Help us unleash human
+potential by removing the bottlenecks between user intent and action.\
+\
+Research Scientist, Neuromotor Interfaces Responsibilities:
+
+-   Plan and execute cutting-edge applied research to advance neuromotor
+    interface capabilities.
+
+-   Design experiments to collect neuromotor and interaction data and
+    evaluate human and model performance.
+
+-   Collaborate with engineering and Human-Computer Interactions (HCI)
+    teams to deploy models that leverage fundamental scientific
+    knowledge into new technology and user experiences.
+
+-   Use quantitative research methods to define, iterate upon, and
+    advance key areas of our research agenda.
+
+-   Autonomously set technical and research direction.
+
+Minimum Qualifications:
+
+-   Must obtain work authorization in country of employment at the time
+    of hire, and maintain ongoing work authorization during employment.
+
+-   Research-oriented software engineering skills, including fluency
+    with libraries for scientific computing (e.g. SciPy ecosystem).
+
+-   Proficiency with quantitative methods (mathematics, statistics) and
+    experience acquiring new technical knowledge and skills rapidly.
+
+Preferred Qualifications:
+
+-   2+ years of experience after PhD working autonomously to design,
+    execute, interpret, and present research studies.
+
+-   Experience in the analysis and modeling of high dimensional time
+    series, such as neural signals, other physiological signals, audio
+    recordings, robotic sensory signals, financial time series, video,
+    or other sensor modalities.
+
+-   Experience in deep learning or probabilistic graphical models.
+    Fluency with libraries for deep learning and machine learning (e.g.,
+    PyTorch, TensorFlow, Scikit-learn).
+
+-   Experience with scientific communication tools (jupyter,
+    matplotlib).
+
+-   Experience in software engineering in industry.
+
+-   Experience bringing machine learning-based products from research to
+    production.
+
+About Meta: Meta builds technologies that help people connect, find
+communities, and grow businesses. When Facebook launched in 2004, it
+changed the way people connect. Apps like Messenger, Instagram and
+WhatsApp further empowered billions around the world. Now, Meta is
+moving beyond 2D screens toward immersive experiences like augmented and
+virtual reality to help build the next evolution in social technology.
+People who choose to build their careers by building with us at Meta
+help shape a future that will take us beyond what digital connection
+makes possible today---beyond the constraints of screens, the limits of
+distance, and even the rules of physics.\
+\
+\$143,000/year to \$208,000/year + bonus + equity + benefits\
+\
+Individual compensation is determined by skills, qualifications,
+experience, and location. Compensation details listed in this posting
+reflect the base hourly rate, monthly rate, or annual salary only, and
+do not include bonus, equity or sales incentives, if applicable. In
+addition to base compensation, Meta offers benefits. Learn more about
+[benefits](https://www.metacareers.com/facebook-life/benefits) at Meta.
+
+----------------------------------------------------
+
+# Two Sigma
+## Two Sigma: Quantitative Researcher - Experienced Hire
+\$165K/yr - \$325K/yr, Hybrid
+
+Two Sigma is a financial sciences company, combining data analysis,
+invention, and rigorous inquiry to help solve the toughest challenges in
+investment management, insurance technology, securities, private equity,
+and venture capital.\
+\
+Our team of scientists, technologists, and academics looks beyond the
+traditional to develop creative solutions to some of the world's most
+complex economic problems.\
+\
+We are looking for a quantitative researcher with an excellent
+background in statistical techniques and data analysis. In this role,
+you will navigate the full research process and apply a rigorous
+scientific approach to design sophisticated investment models for
+trading a variety of global markets.\
+\
+**You Will Take On The Following Responsibilities**
+
+-   Use a rigorous scientific method to develop sophisticated investment
+    models and shape our insights into how the markets will behave
+
+-   Apply quantitative techniques like machine learning to a vast array
+    of datasets
+
+-   Create and test complex investment ideas and partner with our
+    engineers to test your theories
+
+-   Join our reading circles to stay up to date on the latest research
+    papers in your fields
+
+-   Attend academic seminars to learn from thought leaders from top
+    universities
+
+-   Share insights from conferences focused on statistics, machine
+    learning, and data science
+
+**You Should Possess The Following Qualifications**
+
+-   Degree in a technical or quantitative disciplines, like statistics,
+    mathematics, physics, electrical engineering, or computer science
+    (all levels welcome, from bachelor's to doctorate)
+
+-   Intermediate skills in at least one programming language (like C,
+    C++, Java, or Python)
+
+-   Experience performing an in-depth research project, examining
+    real-world data
+
+-   Ability to think independently and creatively approach data analysis
+    and communicate complex ideas clearly
+
+**You Will Enjoy The Following Benefits**
+
+-   Core Benefits: Fully paid medical and dental insurance premiums for
+    employees and dependents, competitive 401k match, employer-paid life
+    & disability insurance
+
+-   Perks: Onsite gyms with laundry service, wellness activities, casual
+    dress, snacks, game rooms
+
+-   Learning: Tuition reimbursement, conference and training sponsorship
+
+-   Time Off: Generous vacation and unlimited sick days, competitive
+    paid caregiver leaves
+
+-   Hybrid Work Policy: Flexible in-office days with budget for home
+    office setup
+
+The base pay for this role will be between \$165,000 and \$325,000. This
+role may also be eligible for other forms of compensation and benefits,
+such as a discretionary bonus, health, dental and other wellness plans
+and 401(k) contributions. Discretionary bonus can be a significant
+portion of total compensation. Actual compensation for successful
+candidates will be carefully determined based on a number of factors,
+including their skills, qualifications and experience.\
+\
+We are proud to be an equal opportunity workplace. We do not
+discriminate based upon race, religion, color, national origin, sex,
+sexual orientation, gender identity/expression, age, status as a
+protected veteran, status as an individual with a disability, or any
+other applicable legally protected characteristics.
+
+----------------------------------------------------
+
+# NVIDIA
+## NVIDIA: Senior Scientific Machine Learning Software Engineer -- Physics
+\$180K/yr - \$339.2K/yr , Remote 
+
+NVIDIA's deep learning and HPC platforms have made a huge impact in
+various fields and are broadly used across leading academic
+institutions, start-ups, and industry, including the world's largest
+Internet companies. We need passionate and creative people to help us on
+building a AI framework that will solve the toughest and most relevant
+problems of humanity and problems that are at the groundbreaking of
+science & engineering: weather/climate challenges, product design,
+digital twins, molecular dynamics, novel materials, accelerated drug
+development, etc.\
+\
+**What You\'ll Be Doing**
+
+-   Work with some of the brightest minds in a leading AI company to
+    develop a leading machine learning framework, NVIDIA Modulus, for
+    our academic and industrial partners to construct digital twins and
+    machine learning simulation surrogates for real world science and
+    engineering problems
+
+-   Work with internal project teams to validate applications built
+    using the framework on Nvidia's products
+
+-   Stay up to date with the latest research and innovations in deep
+    learning techniques, implement and experiment with new insights to
+    develop and enhance NVIDIA\'s deep learning technologies with focus
+    on simulations
+
+**What We Need To See**
+
+-   BS or MS degree (PhD preferred) in computer science, mathematics,
+    computational science/engineering, or related technical field or
+    equivalent experience.
+
+-   10+ years of relevant experience.
+
+-   Strong Python programming skills. Familiarity with containers,
+    numeric libraries, modular software design
+
+-   Good knowledge of state-of-the-art DNN architectures and machine
+    learning techniques and algorithms (graph networks, diffusion
+    models, reinforcement learning etc.) with experience in developing
+    or using major deep learning frameworks (PyTorch, Tensorflow, JAX
+    etc.)
+
+-   Experience with solving and using machine learning for real world
+    problems involving scientific/engineering simulations
+    (domains/applications - industrial, life sciences, high energy
+    physics, earth sciences -- seismic, weather & climate modeling;
+    physics types - CFD, structural, electromagnetics, optics, acoustics
+    etc.) and/or scientific visualization is a big plus
+
+-   Strong analytical skills with bias for action. Good time-management
+    and organization skills to thrive in a fast paced, dynamic
+    environment
+
+-   Solid written and oral communications skills. Good teamwork and
+    interpersonal skills
+
+**Ways To Stand Out From The Crowd**
+
+-   Work with multi-node systems with data-parallel and model parallel
+    programming experience. Experience with CUDA
+
+-   Usage of nonlinear simulation tools and techniques, usage of major
+    simulation codes (opensource and/or commercial)
+
+-   Published papers in the field of AI in scientific computing
+
+NVIDIA is widely considered to be one of the technology world's most
+desirable employers. We have some of the most forward-thinking and
+hardworking people on the planet working for us. If you\'re creative and
+autonomous, we want to hear from you! NVIDIA's invention of the GPU in
+1999 sparked the growth of the PC gaming market, redefined modern
+computer graphics, and revolutionized parallel computing. More recently,
+GPU deep learning ignited modern deep learning --- the next era of
+computing --- with the GPU acting as the brain of computers, robots, and
+self-driving cars that can perceive and understand the world. Today, we
+are increasingly known as "the AI computing company." We\'re looking to
+grow our company and establish teams with the most thoughtful people in
+the world.\
+\
+The base salary range is 180,000 USD - 339,250 USD. Your base salary
+will be determined based on your location, experience, and the pay of
+employees in similar positions.\
+\
+You will also be eligible for equity and benefits . *NVIDIA accepts
+applications on an ongoing basis.\
+\
+*NVIDIA is committed to fostering a diverse work environment and proud
+to be an equal opportunity employer. As we highly value diversity in our
+current and future employees, we do not discriminate (including in our
+hiring and promotion practices) on the basis of race, religion, color,
+national origin, gender, gender expression, sexual orientation, age,
+marital status, veteran status, disability status or any other
+characteristic protected by law. \#deeplearning
+
+------------------------------------------------------------------------
+
+
+# Reddit
+
+## Reddit: Senior Machine Learning Engineer, Core Relevance
+\$216,700---\$303,400 USD 
+
+Reddit is a community of communities. It's built on shared interests,
+passion, and trust and is home to the most open and authentic
+conversations on the internet. Every day, Reddit users submit, vote, and
+comment on the topics they care most about. With 100,000+ active
+communities and approximately 82M+ daily active unique visitors, Reddit
+is one of the internet's largest sources of information. For more
+information, visit [redditinc.com](http://redditinc.com/).\
+\
+Reddit is looking for an experienced **Senior Machine Learning Engineer,
+Core Relevance** to join our ML Core Relevance team. You will execute on
+our mission to build, productionize and improve large-scale machine
+learning models for home feed personalization. You will design and
+implement ML systems and solutions for rapid content discovery for
+low-signal users, enable dynamic personalization into our recommendation
+pipelines, strive to achieve the right balance between exploration and
+exploitation for our core users. In this role, you will partner with a
+diverse group of software engineers, product managers, data scientists
+and other ML modelers. We are excited for you to join our team!\
+\
+**Responsibilities**
+
+-   Contribute to enhancing Reddit\'s home feed recommendation system
+    and other high-traffic product areas, prioritizing long-term user
+    growth and retention. This involves researching, implementing,
+    improving, testing, and launching new model architectures for
+    candidate retrieval and ranking, such as two-tower, transformer, and
+    graph neural network models.
+
+-   Design and implement content discovery algorithms to connect our
+    users with the most relevant content.
+
+-   Develop and implement algorithms to enhance content distribution
+    within the content and creator ecosystems.
+
+-   Mentor junior engineers.
+
+-   Work with large scale data, models, piplelines and product
+    integration.
+
+**Qualifications**
+
+-   6+ years of industry experience
+
+-   4+ years of experience in building and productionizing end-to-end
+    state of the art candidate retrieval and ranking machine learning
+    models at scale.
+
+-   Deep systems level understanding of industry scale recommendation
+    systems.
+
+-   Proficient in programming languages such as Python, Golang.
+
+-   Proficient in working and building machine learning models using
+    PyTorch or Tensorflow.
+
+-   Big Plus:
+
+    -   Experience with large scale data processing & pipeline
+        orchestration tools like Dataflow, Kubeflow, Airflow, BigQuery
+        and Ray.
+
+    -   Experience in large-scale deep learning recommendation model
+        training using parallel computing, distributed training
+        frameworks (e.g., Ray Training, PyTorch Distributed), and
+        efficient utilization of hardware resources is a big plus.
+
+**Benefits**
+
+-   Comprehensive Healthcare Benefits
+
+-   401k Matching
+
+-   Workspace benefits for your home office
+
+-   Personal & Professional development funds
+
+-   Family Planning Support
+
+-   Flexible Vacation (please use them!) & Reddit Global Wellness Days
+
+-   4+ months paid Parental Leave
+
+-   Paid Volunteer time off
+
+**Pay Transparency:** This job posting may span more than one career
+level. In addition to base salary, this job is eligible to receive
+equity in the form of restricted stock units, and depending on the
+position offered, it may also be eligible to receive a commission.
+Additionally, Reddit offers a wide range of benefits to U.S.-based
+employees, including medical, dental, and vision insurance, 401(k)
+program with employer match, generous time off for vacation, and
+parental leave. To learn more, please visit
+<https://www.redditinc.com/careers/>. To provide greater transparency to
+candidates, we share base pay ranges for all US-based job postings
+regardless of state. We set standard base pay ranges for all roles based
+on function, level, and country location, benchmarked against similar
+stage growth companies. Final offer amounts are determined by multiple
+factors including, skills, depth of work experience and relevant
+licenses/credentials, and may vary from the amounts listed below.\
+\
+**The Base Pay Range For This Position Is:** \$216,700---\$303,400 USD
+
+## Reddit: Many Other Positions (Saved on LinkedIn)
+\$216,700---\$303,400 USD 
+
+
+--------------------------------------------------
+
+# Spotify
+## Spotify: Senior Machine Learning Engineer
+\$171.9K/yr - \$245.6K/yr, hybrid
+
+Home Ranking is responsible for creating a personalized Home for every
+user via an ML ranking system. We take candidates (e.g., playlists,
+podcast shows, audiobooks) and use various user, content, and context
+features to determine what will maximize a user's engagement.\
+\
+What You\'ll Do
+
+-   Improve the ranking system to incorporate the best data and features
+    to improve recommendations on Home (for all 615+ million users!)
+
+-   Develop ranking system iterations based on tests, learnings, and
+    published research
+
+-   Lots of online experimentation with hundreds of millions of users
+    and high-impact metrics
+
+Who You Are
+
+-   You have ample experience in machine learning, in fields such as
+    recommendation systems or ranking and relevance
+
+-   You have applied knowledge of A/B testing for model evaluation
+
+-   You have hands-on experience implementing production machine
+    learning systems at scale in Python, Java, or similar languages
+
+-   Experience with tools like TensorFlow or PyTorch
+
+-   You have experience with agile software processes and modular code
+    design following industry standards
+
+Where You\'ll Be
+
+-   We are a distributed workforce enabling our band members to find a
+    work mode that is best for them!Working hours? We operate in the
+    Eastern US time zone for collaboration
+
+-   Where in the world? For this role, it can be within the Americas as
+    long as your working hours are aligned with the Eastern US
+
+-   Prefer an office to work from home instead? Not a problem!
+
+-   We have plenty of options for your working preferences
+
+-   Find more information about our Work From Anywhere options here
+
+The United States base range for this position is \$171,903- 245,575
+plus equity. The benefits available for this position include health
+insurance, six month paid parental leave, 401(k) retirement plan,
+monthly meal allowance, 23 paid days off, 13 paid flexible holidays,
+paid sick leave. These ranges may be modified in the future.\
+\
+\#JobSite-Sub-MachineLearning\
+\
+Today, we are the world's most popular audio streaming subscription
+service.
+
+**NOTE: There are other relevant Spotify jobs as well. However, Spotify
+tends to pay less the DoorDash and Reddit, so I'll keep 'em on the
+backburner.**
+
+--------------------------------------------------------------
+
+
 ## Disney: Principal Machine Learning Engineer
 \$208,400 to \$279,500 per year; 4 days in office; southern NYC (might be a hassle)
 
